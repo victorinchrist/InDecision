@@ -22,10 +22,10 @@ In the United States, student loan debt exceeds $1.7 trillion, affecting nearly 
 
 This section will visualize data on student loans by age, education level, institution type, and major. We’ll look at:
 
-- Loan Type: Federal undergraduate vs. graduate loans.
-- Age & Marital Status: How debt varies by age and marital status.
-- Institution Type: Comparing debt across public, private nonprofit, and for-profit institutions.
-- Major: Which fields of study correlate with higher debt levels, reflecting varying educational costs and potential income after graduation.
+- **Loan Type**: Federal undergraduate vs. graduate loans.
+- \**Age & Marital Status*8: How debt varies by age and marital status.
+- **Institution Type**: Comparing debt across public, private nonprofit, and for-profit institutions.
+- **Majo**r\*\*: Which fields of study correlate with higher debt levels, reflecting varying educational costs and potential income after graduation.
 
 # Terminology to Know
 
@@ -38,11 +38,11 @@ This section will visualize data on student loans by age, education level, insti
 
 The bar graph below unpacks the complexities of student loan debt through three major lenses: Institution **Type and Major**, **Racial and Gender Disparities**, and **Personal Circumstances**, offering crucial insights that can shape your understanding of education policy debates.
 
-- Institution Type and Major: The type of college and choice of major heavily influence borrowing outcomes. Students at for-profit institutions have the highest average debt of $54,900, compared to $41,200 at public colleges. Additionally, fields of study like biological and physical sciences lead to the highest debt at $71,300, whereas business and education majors have some of the lowest debt levels, around $37,000 to $38,000. Voters may weigh these differences when evaluating candidates’ proposals for regulating higher education costs or expanding access to public institutions.
+- **Institution Type and Major**: The type of college and choice of major heavily influence borrowing outcomes. Students at for-profit institutions have the highest average debt of $54,900, compared to $41,200 at public colleges. Additionally, fields of study like biological and physical sciences lead to the highest debt at $71,300, whereas business and education majors have some of the lowest debt levels, around $37,000 to $38,000. Voters may weigh these differences when evaluating candidates’ proposals for regulating higher education costs or expanding access to public institutions.
 
-- Racial and Gender Disparities: The data highlights significant inequities, with Black students carrying the highest average debt ($57,700) and women borrowing more than men ($46,900 versus $44,200). These disparities underline systemic challenges that some candidates aim to address through loan forgiveness or targeted financial support for underserved communities. Voters who are impacted by or care about these inequities might consider how each candidate’s policies could help bridge these financial gaps.
+- **Racial and Gender Disparities**: The data highlights significant inequities, with Black students carrying the highest average debt ($57,700) and women borrowing more than men ($46,900 versus $44,200). These disparities underline systemic challenges that some candidates aim to address through loan forgiveness or targeted financial support for underserved communities. Voters who are impacted by or care about these inequities might consider how each candidate’s policies could help bridge these financial gaps.
 
-- Personal Circumstances: Age and marital status further impact borrowing, as older students (30 or older) borrow more on average ($45,600) and unmarried individuals with dependents have the highest debt burden at $49,100. In contrast, married individuals with dependent children tend to have lower debt at $39,200. Candidates who propose relief for older borrowers or support systems for single parents might influence voters facing these challenges.
+- **Personal Circumstances**: Age and marital status further impact borrowing, as older students (30 or older) borrow more on average ($45,600) and unmarried individuals with dependents have the highest debt burden at $49,100. In contrast, married individuals with dependent children tend to have lower debt at $39,200. Candidates who propose relief for older borrowers or support systems for single parents might influence voters facing these challenges.
 
 # What is the Federal Student Loan Distribution among US College Students?
 
