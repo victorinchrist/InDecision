@@ -56,6 +56,4 @@ Key takeaways:
 - Students at for-profit institutions tend to rely more on federal undergraduate loans compared to those at public or private nonprofit institutions, which may indicate higher tuition costs at for-profits.
 - Across majors, those studying healthcare and business have notable amounts of both undergraduate and graduate loans, whereas majors like humanities and social sciences show less reliance on federal graduate loans.
 
-_[undergrad vs. grad chart]_
-
-<iframe src="https://public.tableau.com/app/profile/hugh.yoon/viz/midwaycheckpoint/Dashboard2?:showVizHome=no&:embed=true" width="1500" height="800"></iframe>
+<iframe src="https://public.tableau.com/views/midwaycheckpoint/Dashboard2?:showVizHome=no&:embed=true" width="1500" height="800"></iframe>
