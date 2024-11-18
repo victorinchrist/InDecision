@@ -44,6 +44,8 @@ The bar graph below unpacks the complexities of student loan debt through three 
 
 - **Personal Circumstances**: Age and marital status further impact borrowing, as older students (30 or older) borrow more on average ($45,600) and unmarried individuals with dependents have the highest debt burden at $49,100. In contrast, married individuals with dependent children tend to have lower debt at $39,200. Candidates who propose relief for older borrowers or support systems for single parents might influence voters facing these challenges.
 
+<iframe src="https://public.tableau.com/views/midwaycheckpoint/Dashboard1?:showVizHome=no&:embed=true" width="645" height="450"></iframe>
+
 # What is the Federal Student Loan Distribution among US College Students?
 
 The chart below provides a breakdown of federal student loan distribution among U.S. college students based on various demographic factors, including age, institution type, major, and marital status. It distinguishes between federal undergraduate loans (in orange) and federal graduate loans (in blue) to highlight how loan reliance varies across different student profiles.
