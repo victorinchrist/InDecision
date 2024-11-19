@@ -25,7 +25,7 @@ This section will visualize data on student loans by age, education level, insti
 - **Loan Type**: Federal undergraduate vs. graduate loans.
 - **Age & Marital Status**: How debt varies by age and marital status.
 - **Institution Type**: Comparing debt across public, private nonprofit, and for-profit institutions.
-- **Majo**r\*\*: Which fields of study correlate with higher debt levels, reflecting varying educational costs and potential income after graduation.
+- **Major**: Which fields of study correlate with higher debt levels, reflecting varying educational costs and potential income after graduation.
 
 # Terminology to Know
 
