@@ -23,7 +23,7 @@ In the United States, student loan debt exceeds $1.7 trillion, affecting nearly 
 This section will visualize data on student loans by age, education level, institution type, and major. We’ll look at:
 
 - **Loan Type**: Federal undergraduate vs. graduate loans.
-- \**Age & Marital Status*8: How debt varies by age and marital status.
+- \*\*Age & Marital Status\*\*: How debt varies by age and marital status.
 - **Institution Type**: Comparing debt across public, private nonprofit, and for-profit institutions.
 - **Majo**r\*\*: Which fields of study correlate with higher debt levels, reflecting varying educational costs and potential income after graduation.
 
