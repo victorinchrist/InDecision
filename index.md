@@ -60,6 +60,28 @@ Key takeaways:
 
 <iframe src="https://public.tableau.com/views/midwaycheckpoint/Dashboard2?:showVizHome=no&:embed=true" width="1000" height="800"></iframe>
 
+## How would student loan forgiveness impact the average borrower?
+
+![borrower data](Average_amount_per_borrower.png)
+
+Let us start by examining the average amount owed per borrower. This value was calculated by dividing the total amount of federal
+student loans divided by the number of unique borrowers. This value has steadily grown every year at roughly the same amount. Only
+recently, under the Biden administration have we seen dips in the amount owed. 
+
+We read through both campaign websites to get a better understanding of the exact claims made by candidates regarding student loan forgiveness.
+The Harris/Walz campaign is for student loan forgiveness, but the Trump/Vance ticket does not make specific claims either for or against.
+However on the campaign trail, former president Trump has argued against student loan forgiveness. 
+
+In this hypothetical example, we consider what would happen if student loan forgiveness became policy. 
+The average monthly payment for a federal student loan with a 10-year term at a 6.8% apr of 38000 is 430$. Again, this 38000$
+figure comes from dividing the total outstanding amount by the number of unqiue borrowers. 
+If the debt was cancelled and the borrower put this into a stock market index fund tracking the popular S&P500 ETF 
+(like $SPY), they would end up with 75,000$
+
+Considering the average home price is 400,000$, with a little more saving, that could be a downpayment on a house!
+
+![thought experiment](experiment.png)
+
 # Economy
 
 Despite being the world's richest country (as measured by GDP), the US economy grapples with extreme inequality. 
@@ -78,6 +100,10 @@ stand-ins to measure the average family's annual income. Of course, each metric 
 Let us start with a famous question asked by then presidential candidate Reagan in his debate with Carter. 
 
 *"Are you better off today than you were four years ago?"*
+
+We chose to analyse the median household income and job growth as a proxy to measure the economy. We chose to not focus on
+GDP, or the stock market, as those metrics can be skewed by the large population, or by the fact that only a small subset
+of Americans are actually invested in the stock market.
 
 ## Median Household Income
 We chose to examine this question by looking at the median household income of families in the US.
