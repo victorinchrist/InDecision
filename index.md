@@ -6,19 +6,21 @@ This project examines claims made by presidential candidates about factors that 
 
 # Topics
 
-1. Student Loan
+1. Student Loans
 2. Economy
 3. Immigration & Abortion
 
-# What Are Student Loans?
+# Student Loans
+
+## What Are Student Loans?
 
 Student loans are financial tools that help individuals cover the cost of higher education, including tuition, housing, and other expenses. Federal loans, provided by the government, are among the most common, with varying types for undergraduate and graduate students.
 
-# Why Are Student Loans Important?
+## Why Are Student Loans Important?
 
 In the United States, student loan debt exceeds $1.7 trillion, affecting nearly 45 million Americans. Student debt can impact quality of life, delay home ownership, and even affect career choices. This issue has been central to recent presidential debates, with candidates proposing different solutions, including loan forgiveness and income-driven repayment plans. Understanding the nuances of student loans—who carries this debt, how it’s distributed across demographics, and how it impacts economic choices—is essential to informed voting on related policy proposals.
 
-# How Do Student Loans Affect Americans?
+## How Do Student Loans Affect Americans?
 
 This section will visualize data on student loans by age, education level, institution type, and major. We’ll look at:
 
@@ -27,14 +29,14 @@ This section will visualize data on student loans by age, education level, insti
 - **Institution Type**: Comparing debt across public, private nonprofit, and for-profit institutions.
 - **Major**: Which fields of study correlate with higher debt levels, reflecting varying educational costs and potential income after graduation.
 
-# Terminology to Know
+## Terminology to Know
 
 - **Federal Undergraduate Loans**: Loans issued by the federal government for undergraduate students, often with lower interest rates and varying repayment options.
 - **Federal Graduate Loans**: Loans available for graduate students, often at higher interest rates.
 - **Loan Forgiveness**: Programs or policies that relieve borrowers from repaying part or all of their federal loans.
 - **Income-Driven Repayment (IDR)**: A repayment plan that bases monthly payments on the borrower’s income and family size, intended to make repayment more manageable for low-income earners.
 
-# The National Average Student Loan Debt Amount Is **$46,697**.
+## The National Average Student Loan Debt Amount Is **$46,697**.
 
 The bar graph below unpacks the complexities of student loan debt through three major lenses: Institution **Type and Major**, **Racial and Gender Disparities**, and **Personal Circumstances**, offering crucial insights that can shape your understanding of education policy debates.
 
@@ -46,7 +48,7 @@ The bar graph below unpacks the complexities of student loan debt through three 
 
 <iframe src="https://public.tableau.com/views/midwaycheckpoint/Dashboard1?:showVizHome=no&:embed=true" width="1200" height="800" ></iframe>
 
-# What is the Federal Student Loan Distribution among US College Students?
+## What is the Federal Student Loan Distribution among US College Students?
 
 The chart below provides a breakdown of federal student loan distribution among U.S. college students based on various demographic factors, including age, institution type, major, and marital status. It distinguishes between federal undergraduate loans (in orange) and federal graduate loans (in blue) to highlight how loan reliance varies across different student profiles.
 
@@ -57,3 +59,90 @@ Key takeaways:
 - Across majors, those studying healthcare and business have notable amounts of both undergraduate and graduate loans, whereas majors like humanities and social sciences show less reliance on federal graduate loans.
 
 <iframe src="https://public.tableau.com/views/midwaycheckpoint/Dashboard2?:showVizHome=no&:embed=true" width="1000" height="800"></iframe>
+
+# Economy
+
+Despite being the world's richest country (as measured by GDP), the US economy grapples with extreme inequality. 
+Both parties claim to better represent the needs of the working class and to be better for the economy.
+While the president does not have any magic levers on their desk to improve or crash the economy, they set the tone for the country
+and help direct the nation's economic journey. 
+
+Let us examine how the Biden/Harris (now Harris/Walz) ticket would do as compared to the Trump/Pence (now Trump/Vance) ticket.
+
+## What is the economy?
+
+Before we can get started with analyzing the claims, how should we define the economy? Various measures exist to capture 
+the state of the economy. Median wages, GDP, GDP growth, inflation, unemployment, job creation, S&P500, are all reasonable
+stand-ins to measure the average family's annual income. Of course, each metric has its own pros and cons.
+
+Let us start with a famous question asked by then presidential candidate Reagan in his debate with Carter. 
+
+*"Are you better off today than you were four years ago?"*
+
+## Median Household Income
+We chose to examine this question by looking at the median household income of families in the US.
+
+![median_wealth](Median_family_wealth.png)
+
+Since we used data from census records and government datasets, the most recent data ends midway through the first Trump presidency.
+Comparing the change in income from the beginning of the Obama/Biden administration, we observe that incomes rose roughly 24%. Similarly,
+For the first two years of the Trump presidency, we observe a change of 12%. 
+
+Of course, these numbers by themselves are not particularly helpful. It is important to remember that the economy operates in a 
+continuum and that it doesn't reset at the end of each presidential term. President Obama handed off a fantastic economy to 
+President elect Trump. Unemployment was at historic lows, GDP growth was good, the stock market was doing well. President Trump,
+signed the 2017 tax cuts into law, further stimulating an already red hot economy. This also, undoubtedly helped bouy the 
+median household income. 
+
+## Job growth (Non-Farm)
+
+A key concern for any president is the unemployment and jobs being created by the economy. A high unemployment can lead to
+a plethora of economic ails that would derail the economy. Job growth data excludes farm jobs as they are highly seasonal and can
+introduce a great deal of fluctuations.
+
+![job growth](non_farm_jobs.png)
+
+We managed to gather data from the Bureau of Labor Statistics (BLS) and mapped the job growth/losses and color coded the years 
+with the color of the party that controlled the presidency. Right off the bat, an interesting trend is visible. 
+Republican presidents frequently leave office with some kind of economic crisis (We are not stating that they are responsible).
+
+From 1980 onward, job growth trends across presidential terms reveal notable differences in economic performance,
+particularly under the Biden/Harris and Trump/Pence administrations. Excluding the anomalous years of 2020 and 2021 due
+to the COVID-19 pandemic, Biden/Harris have overseen a robust rebound in non-farm job growth, averaging approximately 
+4.5 million jobs added annually during their first two years in office. This is a stark contrast to Trump/Pence’s term,
+which, pre-pandemic, averaged about 2.3 million jobs per year between 2017 and 2019. While Trump’s early years 
+reflected consistent job creation, Biden’s administration stands out for its rapid recovery and significant gains 
+as the economy bounced back from the pandemic-induced downturn. 
+
+Again, it is important to remember that Trump inherited low unemployment from Obama (which does also make it harder 
+to show strong job creation), but also averaged fewer jobs created than his predecessor and successor. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
