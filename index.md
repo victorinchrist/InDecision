@@ -76,7 +76,7 @@ In this hypothetical example, we consider what would happen if student loan forg
 The average monthly payment for a federal student loan with a 10-year term at a 6.8% apr of 38000 is 430$. Again, this 38000$
 figure comes from dividing the total outstanding amount by the number of unqiue borrowers. 
 If the debt was cancelled and the borrower put this into a stock market index fund tracking the popular S&P500 ETF 
-(like $SPY), they would end up with 75,000$
+(like SPY), they would end up with 75,000$
 
 Considering the average home price is 400,000$, with a little more saving, that could be a downpayment on a house!
 
