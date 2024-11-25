@@ -2,13 +2,13 @@
 
 ![vote](vote.jpg)
 
-This project examines claims made by presidential candidates about factors that impact Americans' daily lives. The goal of this project is to provide voters with a clear, data-driven understanding of key political issues: student loan debt, economic health, abortion, and immigration. Through narrative visualizations, we aim to help voters make informed decisions based on facts and trends, rather than rhetoric alone.
+This project examines claims made by presidential candidates about factors that impact Americans' daily lives. The goal of this project is to provide voters with a clear, data-driven understanding of key political issues: student loan debt, economic health, immigration, and crime. Through narrative visualizations, we aim to help voters make informed decisions based on facts and trends, rather than rhetoric alone.
 
 # Topics
 
 1. Student Loans
 2. Economy
-3. Immigration & Abortion
+3. Immigration & Crime
 
 # Student Loans
 
@@ -143,6 +143,37 @@ as the economy bounced back from the pandemic-induced downturn.
 Again, it is important to remember that Trump inherited low unemployment from Obama (which does also make it harder 
 to show strong job creation), but also averaged fewer jobs created than his predecessor and successor. 
 
+# Immigration and Crime
+Immigration has been a very hot topic in the most recent election, with both presidential candidates making various claims about recent immigration trends and their effect on the US. One side, Harris claimed that Biden's administration "halved the flow of immigrants" into the country. On the other, however, Trump has claimed that the day he left office experienced the "lowest illegal immigration in US history", and that the Biden administration has spent "millions" bringing in immigrants from other countries. He also claimed that immigrants "poison the blood of our society", referring to them as "animals" and "rough people". In the following we study the claims made by both candidates with the goal of verifying or disproving their various aspects.
+
+## Estimated History of Illegal Immigration in Sanctuary and Non-Sanctuary States
+The first aspect we study is the flow of undocumented immigrants into the country. More specifically, we study the flow of undocumented immigrants from all counties from 2006 to 2022 (excluding 2021). We show the history for the top 10 states in which undocmented immigrants reside, and all the numbers for all other states are lumped under "other". Note that the color of area corresponding to a certain state encodes whether it is a sanctuary state or not. A sanctuary state is one where the undocumented immigrants are protected from deportation to a certain extent. Finally, the line at the top of the plot encodes whether the president was a Democrat or a Republican at each point in time.
+
+<iframe src="https://public.tableau.com/app/profile/michael.ibrahim6432/viz/crime_immigration_viz_Stacked/Stacked?:showVizHome=no&:embed=true" width="1000" height="800"></iframe>
+
+A key takeaway is that the graph indeed confirms Trump's claim that the lowest recorded illegal immigration rate into the US was towards the end of his presidency. However, it is important to note the context, as this is not just purely based on his policies. This was during the time Covid was at its peak, which certainly contributed to the low immigration rate. It is worth noting that through his presidency, though, illegal immigration was steadily declining, and was generally lower than any other time since 2006. It is hard to study Harris' claim that Biden's administration halved the flow of immigrants into the country, as data is not available for 2023 and 2024 yet.
+
+## Overall Documented Immigration and Crime Trends
+Next, we attempt to study the relationship, if any, between immigration rates and crime rates. We study this to address the rhetoric that immigrants are criminals, and they contribute to rising crime rates in America. We do this via a simple line graph, demonstrating the average immigrant rate across all documented immigration statuses and across all states from 2013 to 2022, and another line demonstrating the average crime rate across all crimes and all states from 2014 to 2023. Note that the immigrant rate is per 1M residents, whereas the crime rate is per 100k residents. 
+
+<iframe src="https://public.tableau.com/app/profile/michael.ibrahim6432/viz/crime_immigration_viz_Line/Line?:showVizHome=no&:embed=true" width="1000" height="800"></iframe>
+
+While correlation does not mean causation, the graph does not even show a correlation between immigrant rate and crime rate. Indeed, crime has been steadily declining since 2014, with a slight bump in 2022 most likely due to the economic pressure induced by Covid. On the other hand, documented immigration showed an increasing trend from 2012 to 2019, with a very sharp drop in 2020 and 2021 due to Covid, and finally an increase again in 2022. This disproves claims that immigration rates have any relationship with crime. However, someone may argue that the concern arises from undocumented immigrants, not documented ones. Indeed, president elect Trump's policy is to execute a mass deportation of undocumented immigrants in an attempt to address allegedly rising crime rates. Therefore, we study the relationship between deportation policies and crime rates in the following visualization.
+
+## Crime Rate Rankings of All States
+As mentioned previously, Sanctuary states are those that provide some protection to undocumented immigrants from deportation. If president elect Trump's claims that undocumented immigrants are contributing largely to the crime rates in America, such states should rank higher than non-sanctuary states on many crimes. We study this via the following bump chart.
+
+<iframe src="https://public.tableau.com/app/profile/michael.ibrahim6432/viz/crime_immigration_viz_Bump/Bump?:showVizHome=no&:embed=true" width="1000" height="800"></iframe>
+
+The chart provides some interaction capabilities to the user, enabling them to choose a specific type of crime or highlight a specific state to observe its history. The sanctuary states are shown in dark grey, whereas the non-sanctuary states are shown in light grey. The key takeaway from this chart is that across all crimes, the sanctuary states are dispersed across all rankings amongst the other states. This effectively disproves the claim that undocumented immigrants are the driving force for crime in America.
+
+## Explore Crime Rate and Immigrant Rate Trends!
+In our final visualization, we give the user the ability to explore trends in crime and documented immigrant rates via two choropleth maps utilizing dynamic querying. The top one displays the crime rate in the each state averaged over the selected time period. It also gives the user to filter by type of crime. The bottom one shows the immigrant rate averaged over the selected time period, and gives the user the ability to filter by immigrant status.
+
+<iframe src="https://public.tableau.com/app/profile/michael.ibrahim6432/viz/crime_immigration_viz_Geo/Geo?:showVizHome=no&:embed=true" width="1000" height="800"></iframe>
+
+# Final Takeaway
+While this project might be coming a little too late (since the elections already happened), we hope that it serves as inspiration for individuals to go out and do their own research before casting their votes. Voting is a very big responsibility, and therefore one should not take it lightly or base it solely on claims or anecdotal evidence provided by politicians. Instead, it should be based on sound research and the thorough examination of the facts at hand.
 
 
 
