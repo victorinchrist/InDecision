@@ -182,3 +182,9 @@ In our final visualization, we give the user the ability to explore trends in cr
 # Final Takeaway
 
 While this project might be coming a little too late (since the elections already happened), we hope that it serves as inspiration for individuals to go out and do their own research before casting their votes. Voting is a very big responsibility, and therefore one should not take it lightly or base it solely on claims or anecdotal evidence provided by politicians. Instead, it should be based on sound research and the thorough examination of the facts at hand.
+
+# References
+
+_/Harris vs. Trump on student loans, education: Where they stand - washington post./_ Harris vs. Trump on student loans, education: Where they stand. (n.d.). https://www.washingtonpost.com/politics/interactive/2024/trump-harris-student-loans-education/
+
+_/A NEW WAY FORWARD FOR THE MIDDLE CLASS A Plan to Lower Costs and Create an Opportunity Economy. (n.d.)./_ https://kamalaharris.com/wp-content/uploads/2024/09/Policy_Book_Economic-Opportunity.pdf
