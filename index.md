@@ -36,6 +36,10 @@ This section will visualize data on student loans by age, education level, insti
 - **Loan Forgiveness**: Programs or policies that relieve borrowers from repaying part or all of their federal loans.
 - **Income-Driven Repayment (IDR)**: A repayment plan that bases monthly payments on the borrower’s income and family size, intended to make repayment more manageable for low-income earners.
 
+## The report from [Education Data Initiative](https://educationdata.org/student-loan-debt-statistics) shows that the student loan debt in the US sums **$1.753 trillion**. The line chart below highlights the significant increase on students and graduates. The steep growth in national student loan debt in the US underscores the urgency for policies to address student loan debt sustainability for future generations.
+
+![general trend](national_student_loan_amount.webp)
+
 ## The National Average Student Loan Debt Amount Is **$46,697**.
 
 The bar graph below unpacks the complexities of student loan debt through three major lenses: Institution **Type and Major**, **Racial and Gender Disparities**, and **Personal Circumstances**, offering crucial insights that can shape your understanding of education policy debates.
