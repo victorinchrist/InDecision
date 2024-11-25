@@ -36,33 +36,30 @@ This section will visualize data on student loans by age, education level, insti
 - **Loan Forgiveness**: Programs or policies that relieve borrowers from repaying part or all of their federal loans.
 - **Income-Driven Repayment (IDR)**: A repayment plan that bases monthly payments on the borrower’s income and family size, intended to make repayment more manageable for low-income earners.
 
-## The report from [Education Data Initiative](https://educationdata.org/student-loan-debt-statistics) shows that the student loan debt in the US sums **$1.753 trillion**. The line chart below highlights the significant increase on students and graduates. The steep growth in national student loan debt in the US underscores the urgency for policies to address student loan debt sustainability for future generations.
+## Student Loan Trend
+
+The report from [Education Data Initiative](https://educationdata.org/student-loan-debt-statistics) shows that the student loan debt in the US sums **$1.753 trillion**. The line chart below highlights the significant increase on students and graduates. The steep growth in national student loan debt in the US underscores the urgency for policies to address student loan debt sustainability for future generations.
+
+Harris/Biden Administration claims, "We have reduced the burden of student loans through forgiveness programs, repayment pauses, and limiting interest accumulation." On the other hand, Trump remakrs, "Our administration focused on minimizing federal overreach, promoting private-sector alternatives, and limiting unncessary loan expansions." Under Biden's presidency, his initiatives such as cancellation of up to $20,000 in student loans and repayment pause extensions contributed to decreasing the increasing trend of federal loans in the US by bringing the national loan amount by $0.03 trillion.
 
 ![general trend](national_student_loan_amount.webp)
 
-## The National Average Student Loan Debt Amount Is **$46,697**.
+## Student Loan by Category
 
-The bar graph below unpacks the complexities of student loan debt through three major lenses: Institution **Type and Major**, **Racial and Gender Disparities**, and **Personal Circumstances**, offering crucial insights that can shape your understanding of education policy debates.
+The bar graph below unpacks the complexities of student loan debt through three major lenses: **Institution Type and Major**, **Racial and Gender Disparities**, and **Personal Circumstances**, offering crucial insights that can shape your understanding of education policy debates.
 
-- **Institution Type and Major**: The type of college and choice of major heavily influence borrowing outcomes. Students at for-profit institutions have the highest average debt of $54,900, compared to $41,200 at public colleges. Additionally, fields of study like biological and physical sciences lead to the highest debt at $71,300, whereas business and education majors have some of the lowest debt levels, around $37,000 to $38,000. Voters may weigh these differences when evaluating candidates’ proposals for regulating higher education costs or expanding access to public institutions.
+Diving deeper into each claim made by each candidate, it's clear that Harris promotes the Biden administration's forgiveness programs and expanding income-driven repayment (IDR) plans like SAVE, capping payments to reduce monthly burdens. On the other hand, Trump administration will work on streamlining loan programs by consolidating federal repayment plans into fewer, simpler options. Furthermore, Trump expressed to reduce the government's role in student lending, encouraging private-sector competition, bettering student loan rates, etc.
 
-- **Racial and Gender Disparities**: The data highlights significant inequities, with Black students carrying the highest average debt ($57,700) and women borrowing more than men ($46,900 versus $44,200). These disparities underline systemic challenges that some candidates aim to address through loan forgiveness or targeted financial support for underserved communities. Voters who are impacted by or care about these inequities might consider how each candidate’s policies could help bridge these financial gaps.
-
-- **Personal Circumstances**: Age and marital status further impact borrowing, as older students (30 or older) borrow more on average ($45,600) and unmarried individuals with dependents have the highest debt burden at $49,100. In contrast, married individuals with dependent children tend to have lower debt at $39,200. Candidates who propose relief for older borrowers or support systems for single parents might influence voters facing these challenges.
+Harris administration is most likely to target black and hispanic borrowers, those unmarried with dependents, for-profit borrowers and those in healthcare fields. In contrary, Trump will likely aim for 30/older individuals, those who are in/went to private nonprofits, engineering & copmuter science students and male borrowers. In the following two, we study how each group of people in each category are affected by student loan debt.
 
 <iframe src="https://public.tableau.com/views/midwaycheckpoint/Dashboard1?:showVizHome=no&:embed=true" width="1200" height="800" ></iframe>
 
-## What is the Federal Student Loan Distribution among US College Students?
-
-The chart below provides a breakdown of federal student loan distribution among U.S. college students based on various demographic factors, including age, institution type, major, and marital status. It distinguishes between federal undergraduate loans (in orange) and federal graduate loans (in blue) to highlight how loan reliance varies across different student profiles.
+<iframe src="https://public.tableau.com/views/midwaycheckpoint/Dashboard2?:showVizHome=no&:embed=true" width="1000" height="800"></iframe>
 
 Key takeaways:
 
-- Younger students (23 or younger) primarily rely on federal undergraduate loans, while those aged 30 or older have a relatively high dependency on federal graduate loans, reflecting older students' greater participation in graduate programs.
-- Students at for-profit institutions tend to rely more on federal undergraduate loans compared to those at public or private nonprofit institutions, which may indicate higher tuition costs at for-profits.
-- Across majors, those studying healthcare and business have notable amounts of both undergraduate and graduate loans, whereas majors like humanities and social sciences show less reliance on federal graduate loans.
-
-<iframe src="https://public.tableau.com/views/midwaycheckpoint/Dashboard2?:showVizHome=no&:embed=true" width="1000" height="800"></iframe>
+- Harris adminstration focuses on forgiving significant amounts for borrowers, especially those marginalized or pursuing advanced degrees. Furthermore, forgiveness programs will target high-debt sectors or racial inequities. To keep in mind is that forgiveness efforts largely focus on smaller groups with graduate loans.
+- The main emphasis of Trump administration would be to reduce borrowing for graduate students. The streamlining repayment or partnering with private lenders will help older borrowers and private nonprofit students. A warning may be that graduate students at for-profits or in healthcare bear high debt burdens but are less likely to benefit from a repayment strategy that doesn't include targeted relief.
 
 ## How would student loan forgiveness impact the average borrower?
 
