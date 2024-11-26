@@ -85,51 +85,49 @@ Considering the average home price is 400,000$, with a little more saving, that 
 
 # Economy
 
-Despite being the world's richest country (as measured by GDP), the US economy grapples with extreme inequality.
-Both parties claim to better represent the needs of the working class and to be better for the economy.
-While the president does not have any magic levers on their desk to improve or crash the economy, they set the tone for the country
-and help direct the nation's economic journey.
+The U.S. economy, the world’s largest as measured by GDP, remains a focal point of intense political debate, with candidates frequently making claims about their 
+economic policies' impacts. Both major parties assert that their leadership is better suited to improve the livelihoods of everyday Americans. While the president does 
+not have direct control over the economy, they play a critical role in shaping the national economic agenda and tone. To evaluate these assertions, let’s consider some 
+of the specific claims made by the candidates and analyze their validity.
 
-On one hand Biden has articulated his economic philosophy as "growing the economy from the middle out and the bottom up, not the top down.". He has 
-argued that his presidency has been pivotal for helping the average american do better. Similarly, Trump has said "We have set economic growth records, the likes of which we have never seen before.". 
+President Joe Biden has frequently articulated his economic philosophy as "growing the economy from the middle out and the bottom up, not the top down," arguing that 
+his policies have directly benefited the average American. Former President Donald Trump has countered with claims such as, “We have set economic growth records, the 
+likes of which we have never seen before,” often pointing to pre-pandemic economic indicators during his tenure.
 
-Let us examine how the Biden/Harris (now Harris/Walz) ticket would do as compared to the Trump/Pence (now Trump/Vance) ticket.
+This section examines these claims by analyzing key economic indicators, such as median household income and job growth, to determine which policies may 
+have had a better impact on the American economy.
 
 ## What is the economy?
 
-Before we can get started with analyzing the claims, how should we define the economy? Various measures exist to capture
-the state of the economy. Median wages, GDP, GDP growth, inflation, unemployment, job creation, S&P500, are all reasonable
-stand-ins to measure the average family's annual income. Of course, each metric has its own pros and cons.
+Before diving into the claims, it's important to define the term “economy” and select the metrics used to evaluate it. Common indicators include GDP, GDP growth, median 
+wages, inflation, unemployment, job creation, and the S&P 500. Each metric has its strengths and limitations. For this analysis, we focus on median household income and 
+non-farm job growth as they provide direct insights into the financial well-being of average Americans.
 
-Let us start with a famous question asked by then presidential candidate Reagan in his debate with Carter.
+The analysis begins with a famous question from Ronald Reagan during the 1980 presidential debate:
 
-_"Are you better off today than you were four years ago?"_
+*"Are you better off today than you were four years ago?"*
 
-We chose to analyse the median household income and job growth as a proxy to measure the economy. We chose to not focus on
-GDP, or the stock market, as those metrics can be skewed by the large population, or by the fact that only a small subset
-of Americans are actually invested in the stock market.
+By examining trends in these metrics, we aim to assess the validity of economic claims made by Biden and Trump.
 
 ## Median Household Income
 
-We chose to examine this question by looking at the median household income of families in the US.
+To evaluate claims about improving the average American’s financial standing, we examined median household income using data from the U.S. Census Bureau.
 
 ![median_wealth](Median_family_wealth.png)
 
-Since we used data from census records and government datasets, the most recent data ends midway through the first Trump presidency.
-Comparing the change in income from the beginning of the Obama/Biden administration, we observe that incomes rose roughly 24%. Similarly,
-For the first two years of the Trump presidency, we observe a change of 12%.
+Median household income rose approximately 24% during the Obama/Biden administration, reflecting steady recovery from the Great Recession. During Trump’s presidency, 
+incomes increased by 12% in the first two years before the COVID-19 pandemic disrupted the economy. It’s worth noting that Trump inherited a strong economic foundation 
+with historically low unemployment and high GDP growth, bolstered further by the 2017 tax cuts. These cuts likely contributed to short-term increases in income, 
+aligning with Trump’s claim of record growth before the pandemic.
 
-Of course, these numbers by themselves are not particularly helpful. It is important to remember that the economy operates in a
-continuum and that it doesn't reset at the end of each presidential term. President Obama handed off a fantastic economy to
-President elect Trump. Unemployment was at historic lows, GDP growth was good, the stock market was doing well. President Trump,
-signed the 2017 tax cuts into law, further stimulating an already red hot economy. This also, undoubtedly helped bouy the
-median household income.
+While both administrations oversaw income growth, these numbers alone don’t capture the broader economic landscape. Biden inherited an economy ravaged by the pandemic 
+but presided over policies aimed at recovery, such as stimulus packages and investments in infrastructure. These actions reflect his stated philosophy of prioritizing 
+middle- and lower-income Americans.
 
 ## Job growth (Non-Farm)
 
-A key concern for any president is the unemployment and jobs being created by the economy. A high unemployment can lead to
-a plethora of economic ails that would derail the economy. Job growth data excludes farm jobs as they are highly seasonal and can
-introduce a great deal of fluctuations.
+Job creation is another critical measure of economic performance. Using data from the Bureau of Labor Statistics (BLS), we compared job growth trends across 
+administrations.
 
 ![job growth](non_farm_jobs.png)
 
