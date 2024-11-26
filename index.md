@@ -15,11 +15,13 @@ This project examines claims made by presidential candidates about factors that 
 Immigration and crime were very hot and closely related topics from the previous election. While both candidates made claims regarding immigration and crime issues, Trump heavily focused on them throughout his campaign. In the following few subsections we aim to disseminate some of the claims made by both candidates on those two topics, with the goal of examining their validity through visualization.
 
 ## Flow of Undocumented Immigrants Into the US
+
 Many Americans worry about the arrival of undocumented immigrants into the US, and the potential effect they think they may have on society. This is very well known to both candidates, and therefore they both tride to garner votes by making claims on this issue. On one side, Harris claimed that the Biden administration "halved the flow of immigrants" into the country. This was contradicted by Trump, however, who claimed that the Biden administration "spent millions" to bring millions of undocumented immigrants "from prisons, jails, and mental institutions to destroy our country". He further claimed that the day he left office experienced the "lowest illegal immigration in US history". We attempt to evaluate the validity of these claims via the following stacked line graph.
 
 ![undoc_immigrants](stacked_new.png)
 
 The line graph shows estimates of the amount of undocumented immigrants entering the US per year from 2006 through 2022 (except for 2021). The data is divided by state to show the top 10 states in terms of number of undocumented immigrants enter per year, and the rest of the states are lumped under "other". The bar at the top of the plot reflects the party in control for each year, as well as the name of the president. The data used to is obtained from the Office of Homeland Security and Statistics (OHSS). The graph demonstrates the following key takeaways:
+
 - The lowest number of undocumented immigrants entering the country since 2006 indeed did occur towards the end of Trump's presidency. While this confirms Trump's claim, it is missing context. This is because this point occured in 2020, where COVID had a massive impact on travel and immigration in general.
 - The number of undocumented immigrants entering the country experienced a steady decline throughout Trump's presidency, the like of which was not seen with any other president from the reported data. This suggests that the trump administration did in fact enact policies that reduced the flow of undocumented immigrants.
 - The lack of data makes it difficult to either validate or disprove Harris' claim. However, the number of undocumented immigrants entering the country did experience an increase from 2020 to 2022, possibly suggesting an increasing trend and casting doubt on the claim.
@@ -28,6 +30,7 @@ The line graph shows estimates of the amount of undocumented immigrants entering
 - Texas and California are by a large margin the two most popular states for undocumented immigrants. This is most likely due to their location and California's sanctuary policies, which we will discuss in further detail later.
 
 ## Immigrants and Crime
+
 When discussing immigrants, Trump did not stop at talking about his past and future policies. Instead, he elaborated on the effects he believes immigrants have on American society. He claimed that immigrants "poison the blood of our society", referring to them as "animals" and "rough people". He suggested that they commit violent crimes, thereby having a very adverse effect on society. These are very strong claims, which tend to illicit strong emotions of anger and hatred in many people. Therefore, it is crucial to examine their validity. We do so at a very surface level first by examining if the trend in average crime rate per 100k residents over all states and all types of crimes has a relationship with the average immigrant rate per 1M residents over all states and all documented immigrant statuses. This is depicted in the line graph shown next. Note that the term documented immigrants includes asylees, refugees, naturalized individuals, legal permanent residents (LPRs), and unintuitively nonimmigrants (individuals on visas). The data displayed in this plot and the following ones is collected from the OHSS and the US Customs and Border Protection websites, both of which are reliable sources.
 
 ![crime_and_imm](line.png)
@@ -38,7 +41,7 @@ Some may argue that it is not the documented immigrants that are worrying, but r
 
 ![rankings1](bump1.png)
 
-An alternative view we study also utilized bump charts ranking the US states on violent and property crime, but highlights sanctuary states instead. Sanctuary states are those where undcouemtned immigrants are granted some level of protection from deportation. The yellow portion encodes the period of time before the state enacted a sanctuary policy, whereas a red color shows that a sanctuary policy was enacted. We observe very clearly that crime ranking did not consistently increase or decrease across states as they implemented a sanctuary policy. This further suggests that undcoumented immigrants do not cause a rise in crime in the areas where they reside. Moreover, it suggests that a mass deportation policy would not necessarily lead to a reduction in crime as president elect Trump alleges. 
+An alternative view we study also utilized bump charts ranking the US states on violent and property crime, but highlights sanctuary states instead. Sanctuary states are those where undcouemtned immigrants are granted some level of protection from deportation. The yellow portion encodes the period of time before the state enacted a sanctuary policy, whereas a red color shows that a sanctuary policy was enacted. We observe very clearly that crime ranking did not consistently increase or decrease across states as they implemented a sanctuary policy. This further suggests that undcoumented immigrants do not cause a rise in crime in the areas where they reside. Moreover, it suggests that a mass deportation policy would not necessarily lead to a reduction in crime as president elect Trump alleges.
 
 ![rankings2](bump2.png)
 
@@ -47,7 +50,6 @@ An alternative view we study also utilized bump charts ranking the US states on 
 In our final visualization, we give the user the ability to explore trends in crime and documented immigrant rates via two choropleth maps utilizing dynamic querying. The top one displays the crime rate in the each state averaged over the selected time period. It also gives the user to filter by type of crime. The bottom one shows the immigrant rate averaged over the selected time period, and gives the user the ability to filter by immigrant status.
 
 <iframe src="https://public.tableau.com/views/crime_immigration_viz_Geo/Geo?:showVizHome=no&:embed=true" width="1000" height="800"></iframe>
-
 
 # Student Loans
 
@@ -81,7 +83,7 @@ The report from [Education Data Initiative](https://educationdata.org/student-lo
 
 Harris/Biden Administration claims, "We have reduced the burden of student loans through forgiveness programs, repayment pauses, and limiting interest accumulation." On the other hand, Trump remakrs, "Our administration focused on minimizing federal overreach, promoting private-sector alternatives, and limiting unncessary loan expansions." Under Biden's presidency, his initiatives such as cancellation of up to $20,000 in student loans and repayment pause extensions contributed to decreasing the increasing trend of federal loans in the US by bringing the national loan amount by $0.03 trillion.
 
-![general trend](national_student_loan_amount.webp)
+<iframe src="https://public.tableau.com/views/NationalStudentLoanDebtAmountbyYear/Sheet1?:showVizHome=no&:embed=true" width="1000" height="800"></iframe>
 
 ## Student Loan by Category
 
@@ -124,27 +126,27 @@ Considering the average home price is 400,000$, with a little more saving, that 
 
 # Economy
 
-The U.S. economy, the world’s largest as measured by GDP, remains a focal point of intense political debate, with candidates frequently making claims about their 
-economic policies' impacts. Both major parties assert that their leadership is better suited to improve the livelihoods of everyday Americans. While the president does 
-not have direct control over the economy, they play a critical role in shaping the national economic agenda and tone. To evaluate these assertions, let’s consider some 
+The U.S. economy, the world’s largest as measured by GDP, remains a focal point of intense political debate, with candidates frequently making claims about their
+economic policies' impacts. Both major parties assert that their leadership is better suited to improve the livelihoods of everyday Americans. While the president does
+not have direct control over the economy, they play a critical role in shaping the national economic agenda and tone. To evaluate these assertions, let’s consider some
 of the specific claims made by the candidates and analyze their validity.
 
-President Joe Biden has frequently articulated his economic philosophy as "growing the economy from the middle out and the bottom up, not the top down," arguing that 
-his policies have directly benefited the average American. Former President Donald Trump has countered with claims such as, “We have set economic growth records, the 
+President Joe Biden has frequently articulated his economic philosophy as "growing the economy from the middle out and the bottom up, not the top down," arguing that
+his policies have directly benefited the average American. Former President Donald Trump has countered with claims such as, “We have set economic growth records, the
 likes of which we have never seen before,” often pointing to pre-pandemic economic indicators during his tenure.
 
-This section examines these claims by analyzing key economic indicators, such as median household income and job growth, to determine which policies may 
+This section examines these claims by analyzing key economic indicators, such as median household income and job growth, to determine which policies may
 have had a better impact on the American economy.
 
 ## What is the economy?
 
-Before diving into the claims, it's important to define the term “economy” and select the metrics used to evaluate it. Common indicators include GDP, GDP growth, median 
-wages, inflation, unemployment, job creation, and the S&P 500. Each metric has its strengths and limitations. For this analysis, we focus on median household income and 
+Before diving into the claims, it's important to define the term “economy” and select the metrics used to evaluate it. Common indicators include GDP, GDP growth, median
+wages, inflation, unemployment, job creation, and the S&P 500. Each metric has its strengths and limitations. For this analysis, we focus on median household income and
 non-farm job growth as they provide direct insights into the financial well-being of average Americans.
 
 The analysis begins with a famous question from Ronald Reagan during the 1980 presidential debate:
 
-*"Are you better off today than you were four years ago?"*
+_"Are you better off today than you were four years ago?"_
 
 By examining trends in these metrics, we aim to assess the validity of economic claims made by Biden and Trump.
 
@@ -154,18 +156,18 @@ To evaluate claims about improving the average American’s financial standing, 
 
 ![median_wealth](Median_family_wealth.png)
 
-Median household income rose approximately 24% during the Obama/Biden administration, reflecting steady recovery from the Great Recession. During Trump’s presidency, 
-incomes increased by 12% in the first two years before the COVID-19 pandemic disrupted the economy. It’s worth noting that Trump inherited a strong economic foundation 
-with historically low unemployment and high GDP growth, bolstered further by the 2017 tax cuts. These cuts likely contributed to short-term increases in income, 
+Median household income rose approximately 24% during the Obama/Biden administration, reflecting steady recovery from the Great Recession. During Trump’s presidency,
+incomes increased by 12% in the first two years before the COVID-19 pandemic disrupted the economy. It’s worth noting that Trump inherited a strong economic foundation
+with historically low unemployment and high GDP growth, bolstered further by the 2017 tax cuts. These cuts likely contributed to short-term increases in income,
 aligning with Trump’s claim of record growth before the pandemic.
 
-While both administrations oversaw income growth, these numbers alone don’t capture the broader economic landscape. Biden inherited an economy ravaged by the pandemic 
-but presided over policies aimed at recovery, such as stimulus packages and investments in infrastructure. These actions reflect his stated philosophy of prioritizing 
+While both administrations oversaw income growth, these numbers alone don’t capture the broader economic landscape. Biden inherited an economy ravaged by the pandemic
+but presided over policies aimed at recovery, such as stimulus packages and investments in infrastructure. These actions reflect his stated philosophy of prioritizing
 middle- and lower-income Americans.
 
 ## Job growth (Non-Farm)
 
-Job creation is another critical measure of economic performance. Using data from the Bureau of Labor Statistics (BLS), we compared job growth trends across 
+Job creation is another critical measure of economic performance. Using data from the Bureau of Labor Statistics (BLS), we compared job growth trends across
 administrations.
 
 ![job growth](non_farm_jobs.png)
