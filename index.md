@@ -193,6 +193,6 @@ While this project might be coming a little too late (since the elections alread
 
 # References
 
-_/Harris vs. Trump on student loans, education: Where they stand - washington post./_ Harris vs. Trump on student loans, education: Where they stand. (n.d.). https://www.washingtonpost.com/politics/interactive/2024/trump-harris-student-loans-education/
+_Harris vs. Trump on student loans, education: Where they stand - washington post._ Harris vs. Trump on student loans, education: Where they stand. (n.d.). https://www.washingtonpost.com/politics/interactive/2024/trump-harris-student-loans-education/
 
-_/A NEW WAY FORWARD FOR THE MIDDLE CLASS A Plan to Lower Costs and Create an Opportunity Economy. (n.d.)./_ https://kamalaharris.com/wp-content/uploads/2024/09/Policy_Book_Economic-Opportunity.pdf
+_A NEW WAY FORWARD FOR THE MIDDLE CLASS A Plan to Lower Costs and Create an Opportunity Economy. (n.d.)._ https://kamalaharris.com/wp-content/uploads/2024/09/Policy_Book_Economic-Opportunity.pdf
