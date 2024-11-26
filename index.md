@@ -57,7 +57,7 @@ Student loans are financial tools that help individuals cover the cost of higher
 
 ## Why Are Student Loans Important?
 
-In the United States, student loan debt exceeds $1.7 trillion, affecting nearly 45 million Americans. Student debt can impact quality of life, delay home ownership, and even affect career choices. This issue has been central to recent presidential debates, with candidates proposing different solutions, including loan forgiveness and income-driven repayment plans. Understanding the nuances of student loans—who carries this debt, how it’s distributed across demographics, and how it impacts economic choices—is essential to informed voting on related policy proposals.
+In the United States, student loan debt exceeds $1.7 trillion, affecting nearly 45 million Americans. Student debt can impact quality of life, delay home ownership, and even affect career choices. This issue has been central to recent presidential debates, with candidates proposing different solutions, including loan forgiveness and income-driven repayment plans. Understanding the nuances of student loans—who carries this debt, how it’s distributed across demographics, and how it impacts economic choices—is essential to informed voting on related policy proposals. All the data for this section is collected from the FAFSA website, which is a reliable and official source.
 
 ## How Do Student Loans Affect Americans?
 
