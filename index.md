@@ -193,6 +193,17 @@ While this project might be coming a little too late (since the elections alread
 
 # References
 
-_Harris vs. Trump on student loans, education: Where they stand - washington post._ Harris vs. Trump on student loans, education: Where they stand. (n.d.). https://www.washingtonpost.com/politics/interactive/2024/trump-harris-student-loans-education/
+_Harris vs. Trump on student loans, education: Where they stand - washington post._ [Harris vs. Trump on student loans, education: Where they stand](https://www.washingtonpost.com/politics/interactive/2024/trump-harris-student-loans-education/)
 
-_A NEW WAY FORWARD FOR THE MIDDLE CLASS A Plan to Lower Costs and Create an Opportunity Economy. (n.d.)._ https://kamalaharris.com/wp-content/uploads/2024/09/Policy_Book_Economic-Opportunity.pdf
+_A NEW WAY FORWARD FOR THE MIDDLE CLASS_ [A Plan to Lower Costs and Create an Opportunity Economy. (n.d.).](https://kamalaharris.com/wp-content/uploads/2024/09/Policy_Book_Economic-Opportunity.pdf)
+
+_Bureau of Labor statistics, jobs created per month_ [https://data.bls.gov/pdq/SurveyOutputServlet](https://data.bls.gov/timeseries/ces0000000001?output_view=net_1mth)
+
+_Remarks by president Biden on the American Economy - Bidenomics_ [Bidenomics is working](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/28/bidenomics-is-working-the-presidents-plan-grows-the-economy-from-the-middle-out-and-bottom-up-not-the-top-down/) 
+
+_Remarks by president Trump on the American Economy_ [Trump at Davos](https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-world-economic-forum-davos-switzerland/)
+
+_Compound interest calculator used for evaluating benefits of student loan forgiveness_ [Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator)
+
+
+
