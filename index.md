@@ -10,6 +10,45 @@ This project examines claims made by presidential candidates about factors that 
 2. Economy
 3. Immigration & Crime
 
+# Immigration and Crime
+
+Immigration and crime were very hot and closely related topics from the previous election. While both candidates made claims regarding immigration and crime issues, Trump heavily focused on them throughout his campaign. In the following few subsections we aim to disseminate some of the claims made by both candidates on those two topics, with the goal of examining their validity through visualization.
+
+## Flow of Undocumented Immigrants Into the US
+Many Americans worry about the arrival of undocumented immigrants into the US, and the potential effect they think they may have on society. This is very well known to both candidates, and therefore they both tride to garner votes by making claims on this issue. On one side, Harris claimed that the Biden administration "halved the flow of immigrants" into the country. This was contradicted by Trump, however, who claimed that the Biden administration "spent millions" to bring millions of undocumented immigrants "from prisons, jails, and mental institutions to destroy our country". He further claimed that the day he left office experienced the "lowest illegal immigration in US history". We attempt to evaluate the validity of these claims via the following stacked line graph.
+
+![undoc_immigrants](stacked_new.png)
+
+The line graph shows estimates of the amount of undocumented immigrants entering the US per year from 2006 through 2022 (except for 2021). The data is divided by state to show the top 10 states in terms of number of undocumented immigrants enter per year, and the rest of the states are lumped under "other". The bar at the top of the plot reflects the party in control for each year, as well as the name of the president. The data used to is obtained from the Office of Homeland Security and Statistics (OHSS). The graph demonstrates the following key takeaways:
+- The lowest number of undocumented immigrants entering the country since 2006 indeed did occur towards the end of Trump's presidency. While this confirms Trump's claim, it is missing context. This is because this point occured in 2020, where COVID had a massive impact on travel and immigration in general.
+- The number of undocumented immigrants entering the country experienced a steady decline throughout Trump's presidency, the like of which was not seen with any other president from the reported data. This suggests that the trump administration did in fact enact policies that reduced the flow of undocumented immigrants.
+- The lack of data makes it difficult to either validate or disprove Harris' claim. However, the number of undocumented immigrants entering the country did experience an increase from 2020 to 2022, possibly suggesting an increasing trend and casting doubt on the claim.
+- In general, there have been no sharp peaks or drops in the number of undcoumented immigrants entering the country since 2006.
+- During Biden's presidency in 2022 only about 1.1 undocumented immigrants entered the country. This is a vastly different number from the millions Trump claimed Biden's administration was letting in, highlighting Trump's use of exaggeration.
+- Texas and California are by a large margin the two most popular states for undocumented immigrants. This is most likely due to their location and California's sanctuary policies, which we will discuss in further detail later.
+
+## Immigrants and Crime
+When discussing immigrants, Trump did not stop at talking about his past and future policies. Instead, he elaborated on the effects he believes immigrants have on American society. He claimed that immigrants "poison the blood of our society", referring to them as "animals" and "rough people". He suggested that they commit violent crimes, thereby having a very adverse effect on society. These are very strong claims, which tend to illicit strong emotions of anger and hatred in many people. Therefore, it is crucial to examine their validity. We do so at a very surface level first by examining if the trend in average crime rate per 100k residents over all states and all types of crimes has a relationship with the average immigrant rate per 1M residents over all states and all documented immigrant statuses. This is depicted in the line graph shown next. Note that the term documented immigrants includes asylees, refugees, naturalized individuals, legal permanent residents (LPRs), and unintuitively nonimmigrants (individuals on visas). The data displayed in this plot and the following ones is collected from the OHSS and the US Customs and Border Protection websites, both of which are reliable sources.
+
+![crime_and_imm](line.png)
+
+While correlation does not mean causation, we observe from the graph that there isn't even a correlation between the two quantities. Perhaps the only similarity is that they both exhibit drops around 2020 and 2021, which was caused by COVID. However, whereas crime rates exhibit a steady decreasing trend, immigration exhibited an increasing trend before COVID. Therefore, if anything the quantities are negatively correlated!
+
+Some may argue that it is not the documented immigrants that are worrying, but rather the undcoumented ones. Indeed, Trump has claimed that Biden's administration has been bringing undcoumented immigrants from "jails" and "mental asylums" from other countries and allowing them to enter the US. These "rough people" then allegedly commit very large amounts of violent crimes. We study this via the two bump charts shown below, which rank all the states based on the rate of violent crime and property crime respectively. The highlighted states are the top 10 states in terms of number of undocumented immigrants. We can observe from the charts that the top 10 states are distributed evenly across the 50 states in terms of crime rankings. Therefore, there is no evidence that relatively large populations of undcoumented immigrants result in higher crime rates. Some may claim that undocumented immigrants need not necessarily stay in the states where they first arrive into the US. Therefore, we attempt to study this issue further in the following plots.
+
+![rankings1](bump1.png)
+
+An alternative view we study also utilized bump charts ranking the US states on violent and property crime, but highlights sanctuary states instead. Sanctuary states are those where undcouemtned immigrants are granted some level of protection from deportation. The yellow portion encodes the period of time before the state enacted a sanctuary policy, whereas a red color shows that a sanctuary policy was enacted. We observe very clearly that crime ranking did not consistently increase or decrease across states as they implemented a sanctuary policy. This further suggests that undcoumented immigrants do not cause a rise in crime in the areas where they reside. Moreover, it suggests that a mass deportation policy would not necessarily lead to a reduction in crime as president elect Trump alleges. 
+
+![rankings2](bump2.png)
+
+## Explore Crime Rate and Immigrant Rate Trends!
+
+In our final visualization, we give the user the ability to explore trends in crime and documented immigrant rates via two choropleth maps utilizing dynamic querying. The top one displays the crime rate in the each state averaged over the selected time period. It also gives the user to filter by type of crime. The bottom one shows the immigrant rate averaged over the selected time period, and gives the user the ability to filter by immigrant status.
+
+<iframe src="https://public.tableau.com/views/crime_immigration_viz_Geo/Geo?:showVizHome=no&:embed=true" width="1000" height="800"></iframe>
+
+
 # Student Loans
 
 ## What Are Student Loans?
@@ -145,38 +184,6 @@ as the economy bounced back from the pandemic-induced downturn.
 
 Again, it is important to remember that Trump inherited low unemployment from Obama (which does also make it harder
 to show strong job creation), but also averaged fewer jobs created than his predecessor and successor.
-
-# Immigration and Crime
-
-Immigration and crime were very hot and closely related topics from the previous election. While both candidates made claims regarding immigration and crime issues, Trump heavily focused on them throughout his campaign. In the following few subsections we aim to disseminate some of the claims made by both candidates on those two topics, with the goal of examining their validity through visualization.
-
-## Flow of Undocumented Immigrants Into the US
-Many Americans worry about the arrival of undocumented immigrants into the US, and the potential effect they think they may have on society. This is very well known to both candidates, and therefore they both tride to garner votes by making claims on this issue. On one side, Harris claimed that the Biden administration "halved the flow of immigrants" into the country. This was contradicted by Trump, however, who claimed that the Biden administration "spent millions" to bring millions of undocumented immigrants "from prisons, jails, and mental institutions to destroy our country". He further claimed that the day he left office experienced the "lowest illegal immigration in US history". We attempt to evaluate the validity of these claims via the following stacked line graph.
-
-![undoc_immigrants](stacked_new.png)
-
-The line graph shows estimates of the amount of undocumented immigrants entering the US per year from 2006 through 2022 (except for 2021). The data is divided by state to show the top 10 states in terms of number of undocumented immigrants enter per year, and the rest of the states are lumped under "other". The bar at the top of the plot reflects the party in control for each year, as well as the name of the president. The data used to is obtained from the Office of Homeland Security and Statistics (OHSS). The graph demonstrates the following key takeaways:
-- The lowest number of undocumented immigrants entering the country since 2006 indeed did occur towards the end of Trump's presidency. While this confirms Trump's claim, it is missing context. This is because this point occured in 2020, where COVID had a massive impact on travel and immigration in general.
-- The number of undocumented immigrants entering the country experienced a steady decline throughout Trump's presidency, the like of which was not seen with any other president from the reported data. This suggests that the trump administration did in fact enact policies that reduced the flow of undocumented immigrants.
-- The lack of data makes it difficult to either validate or disprove Harris' claim. However, the number of undocumented immigrants entering the country did experience an increase from 2020 to 2022, possibly suggesting an increasing trend and casting doubt on the claim.
-- In general, there have been no sharp peaks or drops in the number of undcoumented immigrants entering the country since 2006.
-- During Biden's presidency in 2022 only about 1.1 undocumented immigrants entered the country. This is a vastly different number from the millions Trump claimed Biden's administration was letting in, highlighting Trump's use of exaggeration.
-- Texas and California are by a large margin the two most popular states for undocumented immigrants. This is most likely due to their location and California's sanctuary policies, which we will discuss in further detail later.
-
-## Immigrants and Crime
-When discussing immigrants, Trump did not stop at talking about his past and future policies. Instead, he elaborated on the effects he believes immigrants have on American society. He claimed that immigrants "poison the blood of our society", referring to them as "animals" and "rough people". He suggested that they commit violent crimes, thereby having a very adverse effect on society. These are very strong claims, which tend to illicit strong emotions of anger and hatred in many people. Therefore, it is crucial to examine their validity. We do so at a very surface level first by examining if the trend in average crime rate per 100k residents over all states and all types of crimes has a relationship with the average immigrant rate per 1M residents over all states and all documented immigrant statuses. This is depicted in the line graph shown next.
-
-While correlation does not mean causation, we observe from the graph that there isn't even a correlation between the two quantities. Perhaps the only similarity is that they both exhibit drops around 2020 and 2021, which was caused by COVID. However, whereas crime rates exhibit a steady decreasing trend, immigration exhibited an increasing trend before COVID. Therefore, if anything the quantities are negatively correlated!
-
-Some may argue that it is not the documented immigrants that are worrying, but rather the undcoumented ones. Indeed, Trump has claimed that Biden's administration has been bringing undcoumented immigrants from "jails" and "mental asylums" from other countries and allowing them to enter the US. These "rough people" then allegedly commit very large amounts of violent crimes. We study this via the two bump charts shown below, which rank all the states based on the rate of violent crime and property crime respectively. The highlighted states are the top 10 states in terms of number of undocumented immigrants. We can observe from the charts that the top 10 states are distributed evenly across the 50 states in terms of crime rankings. Therefore, there is no evidence that relatively large populations of undcoumented immigrants result in higher crime rates. Some may claim that undocumented immigrants need not necessarily stay in the states where they first arrive into the US. Therefore, we attempt to study this issue further in the following plots.
-
-An alternative view we study also utilized bump charts ranking the US states on violent and property crime, respectively. However, the highlighted states are now sanctuary states, which are states where undcouemtned immigrants are granted some level of protection from deportation. The yellow portion encodes the period of time before the state enacted a sanctuary policy, whereas a red color shows that a sanctuary policy was enacted. We observe very clearly that crime ranking did not consistently increase or decrease across states as they implemented a sanctuary policy. This further suggests that undcoumented immigrants do not cause a rise in crime in the areas where they reside. 
-
-## Explore Crime Rate and Immigrant Rate Trends!
-
-In our final visualization, we give the user the ability to explore trends in crime and documented immigrant rates via two choropleth maps utilizing dynamic querying. The top one displays the crime rate in the each state averaged over the selected time period. It also gives the user to filter by type of crime. The bottom one shows the immigrant rate averaged over the selected time period, and gives the user the ability to filter by immigrant status.
-
-<iframe src="https://public.tableau.com/views/crime_immigration_viz_Geo/Geo?:showVizHome=no&:embed=true" width="1000" height="800"></iframe>
 
 # Final Takeaway
 
