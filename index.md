@@ -90,6 +90,9 @@ Both parties claim to better represent the needs of the working class and to be 
 While the president does not have any magic levers on their desk to improve or crash the economy, they set the tone for the country
 and help direct the nation's economic journey.
 
+On one hand Biden has articulated his economic philosophy as "growing the economy from the middle out and the bottom up, not the top down.". He has 
+argued that his presidency has been pivotal for helping the average american do better. Similarly, Trump has said "We have set economic growth records, the likes of which we have never seen before.". 
+
 Let us examine how the Biden/Harris (now Harris/Walz) ticket would do as compared to the Trump/Pence (now Trump/Vance) ticket.
 
 ## What is the economy?
