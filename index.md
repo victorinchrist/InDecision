@@ -74,6 +74,36 @@ Below you can find the tool we used to generate the previous two views, but you 
 
 <iframe src="https://public.tableau.com/views/crime_immigration_viz_All/Geo?:showVizHome=no&:embed=true" width="800" height="800"></iframe>
 
+## Exploring Crime and Immigration Trends Simultaneously
+The past few visualizations had a relatively narrow focus, which allowed us to draw detailed and impactful insights from them to validate strong claims made by presidential candidates. However, we also want to look at the big picture. To do this, we developed a rich scatter plot that encodes many variables of the data and provides you with significant filtering capabilities.
+
+### Case Study 1: Violent Crime in the West and Naturalization Rate
+The scatter plot shown in the figure below depicts the immigrant rate on the x-axis and the crime rate on the y-axis. The color of each mark encodes whether it is a sanctuary state, and whether the policy had been implemented or not yet. The size of the mark encodes state population, and its shape encodes the type of crime. Filters are applied to show only violent crime in the west and the rate of naturalized immigrants. The plot shown is technically a connected scatter plot, with the history of each mark from 2015 to 2022 being shown via a dashed line.
+
+![scatter1](scatter1.png)
+
+The following lists some of the observations that could be made from this visualization:
+- There is no correlation between violent crime rate and the rate of naturalized immigrants.
+- States with a larger population tend to have a higher naturalization rate.
+- Sacntuary states do not necessarily exhibit high rates of violent crime or naturalized immigrants.
+- The history of states that implemented sanctuary policies shows that the naturalization rate increases after the policy is implemented, but the rate of violent crime does not. This again highlights the lack of relationship between immigrants and crime.
+
+### Case Study 2: Crime Rates in All Regions and LPR Rate
+The scatter plot shown next uses the same system used to generate the previous one. However, this time no filtering is applied to the crime type or the region, and the immigrant status being studied is LPR. The year under study here is 2015, so no traces are shown on the scatter plot.
+
+![scatter2](scatter2.png)
+
+The following lists some of the observations that could be made from this visualization:
+- There is again no correlation between crime rates and LPR rate.
+- Property crimes tend to have a higher rate than violent crimes.
+- States with a higher population tend to have a higher immigrant rate, but not necessarily a higher crime rate than states with a smaller population.
+- Again, sanctuary states are not observed to exhibit higher crime rates than non-sanctuary ones.
+
+### Full Exploratory Scatter Plot
+Now, we give you full control over the filtering and time travel in this powerful scatter plot. We hope it helps you gain more insight about the relationship between crime and immigration rates, how such rates vary in different regions of the country, the effect implementing a sanctuary policy, if any, can have on both rates, the history of each state, and much more.
+
+<iframe src="https://public.tableau.com/views/crime_immigration_viz_scatter/Sheet12?:showVizHome=no&:embed=true" width="800" height="800"></iframe>
+
 # Economy
 Another hot topic in the most recent election was the economy. With the economical ramifications of COVID and the political unrest around the world having a significant effect on the average American, people have been extra cautious when casting their votes as they look for policies that will improve their day to day lives. As a result, the US economy, the world’s largest as measured by GDP, remains a focal point of intense political debate, with candidates frequently making claims about their economic policies' impacts. Both major parties assert that their leadership is better suited to improve the livelihoods of everyday Americans. While the president does not have direct control over the economy, they play a critical role in shaping the national economic agenda and tone. To evaluate these assertions, let’s consider some
 of the specific claims made by the candidates and analyze their validity.
