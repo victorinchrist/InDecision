@@ -53,6 +53,7 @@ Next, we attempt to evaluate the claims Trump made about Biden's high immigratio
 ### Case Study 1: A Comparison of Property Crime Rates
 In the first case study, we look at the rate of property crime under Trump's administration compared to that under Biden's administration, where the saturation of the color of a state encodes the average property crime rate over the period being studied. Note that on the map the letter I is used to highlight the top 10 states that undocumented immigrants flow to, and the arrows on the states under Biden's map indicate the direction of the change in crime rate from Trump's map. More specifically a downward arrow indicates the crime rate went down, an upwards arrow indicates it went up, and a yellow line indicates that it remained roughly equivalent.
 
+![geo1](geo1.png)
 
 We can make the following observations from the visualization:
 - Under both administration, the top 10 states for undocumented immigrants are not the states with the highest rates of property crime. This further emphaizes and highlights that there is no relationship between undocumented immigrants and high crime rates.
@@ -62,6 +63,8 @@ We can make the following observations from the visualization:
 ### Case Study 2: A Comparison of Refugee Rate
 In the first case study, we look at the rate of refugees per 1M residents in each state under both administrations, where the saturation of the color of a state encodes the average refugee rate over the period being studied. Again, the letter I on the map is used to highlight the top 10 states that undocumented immigrants flow to, and the arrows on the states under Biden's map indicate the direction of the change in refugee rate from Trump's map.
 
+![geo2](geo2.png)
+
 We can make the following observations from the visualization:
 - Surprisingly, it turns out that refugees are generally not mainly concentrated in the top 10 states for undocumented immigrants. This pattern can be seen on both maps, and may be a result of refugees having different circumstances from undocumented immigrants, and therefore requiring different types of resources and policies.
 - Again, Biden's map displays a sharp drop in refugee rate across most states when compared to Trump's map. This again negates the narrative that Biden left the country open for anyone to enter. However, as mentioned previously it is important to note the effect of COVID on these results.
@@ -69,7 +72,7 @@ We can make the following observations from the visualization:
 ### Exploratory Tool
 Below you can find the tool we used to generate the previous two views, but you can choose the type of crime, immigrant status, and choose time ranges for both. We hope you can make interesting insights using this tool!
 
-<iframe src="https://[public.tableau.com/views/crime_immigration_viz_Geo/Geo](https://public.tableau.com/app/profile/michael.ibrahim6432/viz/crime_immigration_viz_All/Geo)?:showVizHome=no&:embed=true" width="800" height="800"></iframe>
+<iframe src="https://public.tableau.com/views/crime_immigration_viz_All/Geo?:showVizHome=no&:embed=true" width="800" height="800"></iframe>
 
 # Economy
 Another hot topic in the most recent election was the economy. With the economical ramifications of COVID and the political unrest around the world having a significant effect on the average American, people have been extra cautious when casting their votes as they look for policies that will improve their day to day lives. As a result, the US economy, the world’s largest as measured by GDP, remains a focal point of intense political debate, with candidates frequently making claims about their economic policies' impacts. Both major parties assert that their leadership is better suited to improve the livelihoods of everyday Americans. While the president does not have direct control over the economy, they play a critical role in shaping the national economic agenda and tone. To evaluate these assertions, let’s consider some
