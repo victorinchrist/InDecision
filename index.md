@@ -53,7 +53,7 @@ Next, we attempt to evaluate the claims Trump made about Biden's high immigratio
 ### Case Study 1: A Comparison of Property Crime Rates
 In the first case study, we look at the rate of property crime under Trump's administration compared to that under Biden's administration, where the saturation of the color of a state encodes the average property crime rate over the period being studied. Note that on the map the letter I is used to highlight the top 10 states that undocumented immigrants flow to, and the arrows on the states under Biden's map indicate the direction of the change in crime rate from Trump's map. More specifically a downward arrow indicates the crime rate went down, an upwards arrow indicates it went up, and a yellow line indicates that it remained roughly equivalent.
 
-![geo1](geo1.png)
+![geo1](geo1.PNG)
 
 We can make the following observations from the visualization:
 - Under both administration, the top 10 states for undocumented immigrants are not the states with the highest rates of property crime. This further emphaizes and highlights that there is no relationship between undocumented immigrants and high crime rates.
@@ -63,7 +63,7 @@ We can make the following observations from the visualization:
 ### Case Study 2: A Comparison of Refugee Rate
 In the first case study, we look at the rate of refugees per 1M residents in each state under both administrations, where the saturation of the color of a state encodes the average refugee rate over the period being studied. Again, the letter I on the map is used to highlight the top 10 states that undocumented immigrants flow to, and the arrows on the states under Biden's map indicate the direction of the change in refugee rate from Trump's map.
 
-![geo2](geo2.png)
+![geo2](geo2.PNG)
 
 We can make the following observations from the visualization:
 - Surprisingly, it turns out that refugees are generally not mainly concentrated in the top 10 states for undocumented immigrants. This pattern can be seen on both maps, and may be a result of refugees having different circumstances from undocumented immigrants, and therefore requiring different types of resources and policies.
