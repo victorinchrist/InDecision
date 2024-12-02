@@ -1,3 +1,6 @@
 theme: jekyll-theme-slate
 title: InDecision
 description: Sri Chillarge, Michael Ibrahim, Jeff Smith, Hugh Yoon
+
+additional_css:
+  - /custom.css
