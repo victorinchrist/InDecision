@@ -118,7 +118,7 @@ Now, we give you full control over the filtering and time travel in this powerfu
 
 ## Undocumented Immigrants and Taxes
 
-<iframe src="https://public.tableau.com/views/TaxViz/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link:showVizHome=no&:embed=true" width="800" height="800"></iframe>
+<iframe src="https://public.tableau.com/views/TaxViz/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link:showVizHome=no&:embed=true" width="820" height="820"></iframe>
 
 # Economy
 
