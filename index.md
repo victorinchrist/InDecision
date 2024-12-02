@@ -48,58 +48,70 @@ Another argument that could be made is that undocumented immigrants need not con
 ![rankings2](bump2.png)
 
 ## A Geographical Perspective on Crime and Dcoumented Immigration Rates
+
 Next, we attempt to evaluate the claims Trump made about Biden's high immigration and high crime rates by utilizing a geographical visualization technique. We first explore two case studies, then we provide you with an exploratory analytical tool where you can make your own discoveries! It is worth noting that the following case studies are not complete in the sense that data is not available for the entirety of Biden's presidency. Therefore, the results should be revisited once this data is available. Also note that COVIS effects on crime and immigration will affect the data from both presidencies as 2020 was under Trump and 2021 was under Biden. However, since fewer years of data re available for Biden, the effect will be more significant with his maps.
 
 ### Case Study 1: A Comparison of Property Crime Rates
+
 In the first case study, we look at the rate of property crime under Trump's administration compared to that under Biden's administration, where the saturation of the color of a state encodes the average property crime rate over the period being studied. Note that on the map the letter I is used to highlight the top 10 states that undocumented immigrants flow to, and the arrows on the states under Biden's map indicate the direction of the change in crime rate from Trump's map. More specifically a downward arrow indicates the crime rate went down, an upwards arrow indicates it went up, and a yellow line indicates that it remained roughly equivalent.
 
 ![geo1](geo1.PNG)
 
 We can make the following observations from the visualization:
+
 - Under both administration, the top 10 states for undocumented immigrants are not the states with the highest rates of property crime. This further emphaizes and highlights that there is no relationship between undocumented immigrants and high crime rates.
 - Biden's map exhibited a reduction in property crime rate across a vast majority of the states, with the rest maintaining a similar crime rate to Trump's map, and very few exhibiting an increase in the crime rate. This negates the narrative that crime went up and was out of control under Biden's administration, as in fact it was reduced in most states!
 - It seems that there is no observable geographical pattern for regions where crime rates decreased or increased under Biden's administration.
 
 ### Case Study 2: A Comparison of Refugee Rate
+
 In the first case study, we look at the rate of refugees per 1M residents in each state under both administrations, where the saturation of the color of a state encodes the average refugee rate over the period being studied. Again, the letter I on the map is used to highlight the top 10 states that undocumented immigrants flow to, and the arrows on the states under Biden's map indicate the direction of the change in refugee rate from Trump's map.
 
 ![geo2](geo2.PNG)
 
 We can make the following observations from the visualization:
+
 - Surprisingly, it turns out that refugees are generally not mainly concentrated in the top 10 states for undocumented immigrants. This pattern can be seen on both maps, and may be a result of refugees having different circumstances from undocumented immigrants, and therefore requiring different types of resources and policies.
 - Again, Biden's map displays a sharp drop in refugee rate across most states when compared to Trump's map. This again negates the narrative that Biden left the country open for anyone to enter. However, as mentioned previously it is important to note the effect of COVID on these results.
 
 ### Exploratory Tool
+
 Below you can find the tool we used to generate the previous two views, but you can choose the type of crime, immigrant status, and choose time ranges for both. We hope you can make interesting insights using this tool!
 
 <iframe src="https://public.tableau.com/views/crime_immigration_viz_All/Geo?:showVizHome=no&:embed=true" width="800" height="800"></iframe>
 
 ## Exploring Crime and Immigration Trends Simultaneously
+
 The past few visualizations had a relatively narrow focus, which allowed us to draw detailed and impactful insights from them to validate strong claims made by presidential candidates. However, we also want to look at the big picture. To do this, we developed a rich scatter plot that encodes many variables of the data and provides you with significant filtering capabilities.
 
 ### Case Study 1: Violent Crime in the West and Naturalization Rate
+
 The scatter plot shown in the figure below depicts the immigrant rate on the x-axis and the crime rate on the y-axis. The color of each mark encodes whether it is a sanctuary state, and whether the policy had been implemented or not yet. The size of the mark encodes state population, and its shape encodes the type of crime. Filters are applied to show only violent crime in the west and the rate of naturalized immigrants. The plot shown is technically a connected scatter plot, with the history of each mark from 2015 to 2022 being shown via a dashed line.
 
 ![scatter1](scatter1.png)
 
 The following lists some of the observations that could be made from this visualization:
+
 - There is no correlation between violent crime rate and the rate of naturalized immigrants.
 - States with a larger population tend to have a higher naturalization rate.
 - Sacntuary states do not necessarily exhibit high rates of violent crime or naturalized immigrants.
 - The history of states that implemented sanctuary policies shows that the naturalization rate increases after the policy is implemented, but the rate of violent crime does not. This again highlights the lack of relationship between immigrants and crime.
 
 ### Case Study 2: Crime Rates in All Regions and LPR Rate
+
 The scatter plot shown next uses the same system used to generate the previous one. However, this time no filtering is applied to the crime type or the region, and the immigrant status being studied is LPR. The year under study here is 2015, so no traces are shown on the scatter plot.
 
 ![scatter2](scatter2.png)
 
 The following lists some of the observations that could be made from this visualization:
+
 - There is again no correlation between crime rates and LPR rate.
 - Property crimes tend to have a higher rate than violent crimes.
 - States with a higher population tend to have a higher immigrant rate, but not necessarily a higher crime rate than states with a smaller population.
 - Again, sanctuary states are not observed to exhibit higher crime rates than non-sanctuary ones.
 
 ### Full Exploratory Scatter Plot
+
 Now, we give you full control over the filtering and time travel in this powerful scatter plot. We hope it helps you gain more insight about the relationship between crime and immigration rates, how such rates vary in different regions of the country, the effect implementing a sanctuary policy, if any, can have on both rates, the history of each state, and much more.
 
 <iframe src="https://public.tableau.com/views/crime_immigration_viz_scatter/Sheet12?:showVizHome=no&:embed=true" width="800" height="800"></iframe>
@@ -109,6 +121,7 @@ Now, we give you full control over the filtering and time travel in this powerfu
 <iframe src="https://public.tableau.com/views/TaxViz/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link:showVizHome=no&:embed=true" width="800" height="800"></iframe>
 
 # Economy
+
 Another hot topic in the most recent election was the economy. With the economical ramifications of COVID and the political unrest around the world having a significant effect on the average American, people have been extra cautious when casting their votes as they look for policies that will improve their day to day lives. As a result, the US economy, the world’s largest as measured by GDP, remains a focal point of intense political debate, with candidates frequently making claims about their economic policies' impacts. Both major parties assert that their leadership is better suited to improve the livelihoods of everyday Americans. While the president does not have direct control over the economy, they play a critical role in shaping the national economic agenda and tone. To evaluate these assertions, let’s consider some
 of the specific claims made by the candidates and analyze their validity.
 
@@ -156,8 +169,6 @@ as the economy bounced back from the pandemic-induced downturn.
 Again, it is important to remember that Trump inherited low unemployment from Obama (which does also make it harder
 to show strong job creation), but also averaged fewer jobs created than his predecessor and successor.
 
-
-
 # Student Loans
 
 ## What Are Student Loans?
@@ -188,7 +199,7 @@ This section will visualize data on student loans by age, education level, insti
 
 The report from [Education Data Initiative](https://educationdata.org/student-loan-debt-statistics) shows that the student loan debt in the US sums **$1.753 trillion**. The line graph below highlights the significant increase on students and graduates. The steep growth in national student loan debt in the US underscores the urgency for policies to address student loan debt sustainability for future generations.
 
-Biden/Harris Administration claims, "We have reduced the burden of student loans through forgiveness programs, repayment pauses, and limiting interest accumulation." On the other hand, Trump remakrs, "Our administration focused on minimizing federal overreach, promoting private-sector alternatives, and limiting unncessary loan expansions." Under Biden's presidency, his initiatives such as cancellation of up to $20,000 in student loans and repayment pause extensions contributed to decreasing the increasing trend of federal loans in the US by bringing the national loan amount by $0.03 trillion. This is indeed reflected in the line graph shown below, which confirms the claims made by the Biden/Harris administration. Conversely, while the plot shown cannot be utilized to conclusively confirm or disprove Trump's claim, it ultimately demonstrates that his administration's efforts did not attempt, or at least succeed at reducing national student loan debt. 
+Biden/Harris Administration claims, "We have reduced the burden of student loans through forgiveness programs, repayment pauses, and limiting interest accumulation." On the other hand, Trump remakrs, "Our administration focused on minimizing federal overreach, promoting private-sector alternatives, and limiting unncessary loan expansions." Under Biden's presidency, his initiatives such as cancellation of up to $20,000 in student loans and repayment pause extensions contributed to decreasing the increasing trend of federal loans in the US by bringing the national loan amount by $0.03 trillion. This is indeed reflected in the line graph shown below, which confirms the claims made by the Biden/Harris administration. Conversely, while the plot shown cannot be utilized to conclusively confirm or disprove Trump's claim, it ultimately demonstrates that his administration's efforts did not attempt, or at least succeed at reducing national student loan debt.
 
 <iframe src="https://public.tableau.com/views/NationalStudentLoanDebtAmountbyYear/Sheet1?:showVizHome=no&:embed=true" width="1000" height="800"></iframe>
 
@@ -200,7 +211,7 @@ Diving deeper into each claim made by each candidate, it's clear that Harris pro
 
 Harris administration is most likely to target black and hispanic borrowers, those unmarried with dependents, for-profit borrowers and those in healthcare fields. In contrary, Trump will likely aim for 30/older individuals, those who are in/went to private nonprofits, engineering & copmuter science students and male borrowers. In the following two, we study how each group of people in each category are affected by student loan debt.
 
-<iframe src="https://public.tableau.com/views/midwaycheckpoint/Dashboard1?:showVizHome=no&:embed=true" width="1200" height="800" ></iframe>
+<iframe src="https://public.tableau.com/views/midwaycheckpoint/Dashboard1?:showVizHome=no&:embed=true" width="800" height="800" ></iframe>
 
 <iframe src="https://public.tableau.com/views/midwaycheckpoint/Dashboard2?:showVizHome=no&:embed=true" width="1000" height="800"></iframe>
 
@@ -236,11 +247,8 @@ _A NEW WAY FORWARD FOR THE MIDDLE CLASS_ [A Plan to Lower Costs and Create an Op
 
 _Bureau of Labor statistics, jobs created per month_ [https://data.bls.gov/pdq/SurveyOutputServlet](https://data.bls.gov/timeseries/ces0000000001?output_view=net_1mth)
 
-_Remarks by president Biden on the American Economy - Bidenomics_ [Bidenomics is working](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/28/bidenomics-is-working-the-presidents-plan-grows-the-economy-from-the-middle-out-and-bottom-up-not-the-top-down/) 
+_Remarks by president Biden on the American Economy - Bidenomics_ [Bidenomics is working](https://www.whitehouse.gov/briefing-room/statements-releases/2023/06/28/bidenomics-is-working-the-presidents-plan-grows-the-economy-from-the-middle-out-and-bottom-up-not-the-top-down/)
 
 _Remarks by president Trump on the American Economy_ [Trump at Davos](https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-world-economic-forum-davos-switzerland/)
 
 _Compound interest calculator used for evaluating benefits of student loan forgiveness_ [Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator)
-
-
-
