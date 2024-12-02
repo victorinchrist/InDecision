@@ -107,7 +107,7 @@ Now, we give you full control over the filtering and time travel in this powerfu
 ## Undocumented Immigrants and Taxes
 
 <iframe src="https://public.tableau.com/app/profile/jeffrey.smith4793/viz/TaxViz/Dashboard1?:showVizHome=no&:embed=true" width="800" height="800"></iframe>
-
+<iframe src="https://public.tableau.com/views/TaxViz/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link:showVizHome=no&:embed=true" width="800" height="800"></iframe>
 # Economy
 Another hot topic in the most recent election was the economy. With the economical ramifications of COVID and the political unrest around the world having a significant effect on the average American, people have been extra cautious when casting their votes as they look for policies that will improve their day to day lives. As a result, the US economy, the world’s largest as measured by GDP, remains a focal point of intense political debate, with candidates frequently making claims about their economic policies' impacts. Both major parties assert that their leadership is better suited to improve the livelihoods of everyday Americans. While the president does not have direct control over the economy, they play a critical role in shaping the national economic agenda and tone. To evaluate these assertions, let’s consider some
 of the specific claims made by the candidates and analyze their validity.
