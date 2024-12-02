@@ -158,7 +158,7 @@ to show strong job creation), but also averaged fewer jobs created than his pred
 
 ## What Are Student Loans?
 
-Student loans are financial tools that help individuals cover the cost of higher education, including tuition, housing, and other expenses. Federal loans, provided by the government, are among the most common, with varying types for undergraduate and graduate students.
+A final topic on which there was much discord in the previous election was student loans. Put simply, student loans are financial tools that help individuals cover the cost of higher education, including tuition, housing, and other expenses. Federal loans, provided by the government, are among the most common, with varying types for undergraduate and graduate students. Below, we try to take a closer look at why student loans are important as well as defining some of the important concepts related to them. We then examine some claims that were made about them by the presidential candidates.
 
 ## Why Are Student Loans Important?
 
@@ -182,9 +182,9 @@ This section will visualize data on student loans by age, education level, insti
 
 ## Student Loan Trend
 
-The report from [Education Data Initiative](https://educationdata.org/student-loan-debt-statistics) shows that the student loan debt in the US sums **$1.753 trillion**. The line chart below highlights the significant increase on students and graduates. The steep growth in national student loan debt in the US underscores the urgency for policies to address student loan debt sustainability for future generations.
+The report from [Education Data Initiative](https://educationdata.org/student-loan-debt-statistics) shows that the student loan debt in the US sums **$1.753 trillion**. The line graph below highlights the significant increase on students and graduates. The steep growth in national student loan debt in the US underscores the urgency for policies to address student loan debt sustainability for future generations.
 
-Harris/Biden Administration claims, "We have reduced the burden of student loans through forgiveness programs, repayment pauses, and limiting interest accumulation." On the other hand, Trump remakrs, "Our administration focused on minimizing federal overreach, promoting private-sector alternatives, and limiting unncessary loan expansions." Under Biden's presidency, his initiatives such as cancellation of up to $20,000 in student loans and repayment pause extensions contributed to decreasing the increasing trend of federal loans in the US by bringing the national loan amount by $0.03 trillion.
+Biden/Harris Administration claims, "We have reduced the burden of student loans through forgiveness programs, repayment pauses, and limiting interest accumulation." On the other hand, Trump remakrs, "Our administration focused on minimizing federal overreach, promoting private-sector alternatives, and limiting unncessary loan expansions." Under Biden's presidency, his initiatives such as cancellation of up to $20,000 in student loans and repayment pause extensions contributed to decreasing the increasing trend of federal loans in the US by bringing the national loan amount by $0.03 trillion. This is indeed reflected in the line graph shown below, which confirms the claims made by the Biden/Harris administration. Conversely, while the plot shown cannot be utilized to conclusively confirm or disprove Trump's claim, it ultimately demonstrates that his administration's efforts did not attempt, or at least succeed at reducing national student loan debt. 
 
 <iframe src="https://public.tableau.com/views/NationalStudentLoanDebtAmountbyYear/Sheet1?:showVizHome=no&:embed=true" width="1000" height="800"></iframe>
 
@@ -192,7 +192,7 @@ Harris/Biden Administration claims, "We have reduced the burden of student loans
 
 The bar graph below unpacks the complexities of student loan debt through three major lenses: **Institution Type and Major**, **Racial and Gender Disparities**, and **Personal Circumstances**, offering crucial insights that can shape your understanding of education policy debates.
 
-Diving deeper into each claim made by each candidate, it's clear that Harris promotes the Biden administration's forgiveness programs and expanding income-driven repayment (IDR) plans like SAVE, capping payments to reduce monthly burdens. On the other hand, Trump administration will work on streamlining loan programs by consolidating federal repayment plans into fewer, simpler options. Furthermore, Trump expressed to reduce the government's role in student lending, encouraging private-sector competition, bettering student loan rates, etc.
+Diving deeper into each claim made by each candidate, it's clear that Harris promotes the Biden administration's forgiveness programs and expanding income-driven repayment (IDR) plans like SAVE, capping payments to reduce monthly burdens. On the other hand, Trump administration will work on streamlining loan programs by consolidating federal repayment plans into fewer, simpler options. Furthermore, Trump expressed an intent to reduce the government's role in student lending, encouraging private-sector competition, bettering student loan rates, etc.
 
 Harris administration is most likely to target black and hispanic borrowers, those unmarried with dependents, for-profit borrowers and those in healthcare fields. In contrary, Trump will likely aim for 30/older individuals, those who are in/went to private nonprofits, engineering & copmuter science students and male borrowers. In the following two, we study how each group of people in each category are affected by student loan debt.
 
@@ -209,18 +209,11 @@ Key takeaways:
 
 ![borrower data](Average_amount_per_borrower.png)
 
-Let us start by examining the average amount owed per borrower. This value was calculated by dividing the total amount of federal
-student loans divided by the number of unique borrowers. This value has steadily grown every year at roughly the same amount. Only
-recently, under the Biden administration have we seen dips in the amount owed.
+Let us start by examining the average amount owed per borrower. This value was calculated by dividing the total amount of federal student loans divided by the number of unique borrowers. This value has steadily grown every year at roughly the same amount. Only recently, under the Biden administration have we seen dips in the amount owed.
 
-We read through both campaign websites to get a better understanding of the exact claims made by candidates regarding student loan forgiveness.
-The Harris/Walz campaign is for student loan forgiveness, but the Trump/Vance ticket does not make specific claims either for or against.
-However on the campaign trail, former president Trump has argued against student loan forgiveness.
+We read through both campaign websites to get a better understanding of the exact claims made by candidates regarding student loan forgiveness. The Harris/Walz campaign is for student loan forgiveness, but the Trump/Vance ticket does not make specific claims either for or against. However on the campaign trail, former president Trump has argued against student loan forgiveness.
 
-In this hypothetical example, we consider what would happen if student loan forgiveness became policy.
-The average monthly payment for a federal student loan with a 10-year term at a 6.8% apr of 38000 is 430$. Again, this 38000$
-figure comes from dividing the total outstanding amount by the number of unqiue borrowers.
-If the debt was cancelled and the borrower put this into a stock market index fund tracking the popular S&P500 ETF
+In this hypothetical example, we consider what would happen if student loan forgiveness became policy. The average monthly payment for a federal student loan with a 10-year term at a 6.8% apr of 38000 is 430$. Again, this 38000$ figure comes from dividing the total outstanding amount by the number of unqiue borrowers. If the debt was cancelled and the borrower put this into a stock market index fund tracking the popular S&P500 ETF
 (like SPY), they would end up with 75,000$
 
 Considering the average home price is 400,000$, with a little more saving, that could be a downpayment on a house!
