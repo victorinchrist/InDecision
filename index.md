@@ -41,11 +41,11 @@ While correlation does not mean causation, we observe from the graph that there 
 
 Some may argue that it is not the documented immigrants that are worrying, but rather the undcoumented ones. Indeed, Trump has claimed that Biden's administration has been bringing undcoumented immigrants from "jails" and "mental asylums" from other countries and allowing them to enter the US. These "rough people" then allegedly commit very large amounts of violent crimes. We examine this claim via the two bump charts shown below, which rank all the states based on the rate of violent and property crime. The highlighted states are the top 10 states that undocumented immigrants flow into. We can observe from the charts that the top 10 states are distributed evenly across the 50 states in terms of crime rankings for both types of crimes. Therefore, there is no evidence that relatively large populations of undcoumented immigrants result in higher crime rates. Moreover, it is interesting to see the sharp decline in crime rankings in many of the top 10 undcoumented immigrant states in 2021. Some may be tempted to use this as evidence that immigrants commit crimes as COVID significantly reduced immigration in 2020. However, it is important to again highlight that correlation does not indicate causation. Indeed, while COVID did affect immigration, it also affected crime rates since there were much less people in the street, many people moved from the big states where they work or attend schools back to their home states, and many businesses were closed.
 
-![rankings1](bump1.png)
+![rankings1](bump1B.png)
 
 Another argument that could be made is that undocumented immigrants need not continue to stay in the state that they first resided in when they entered the US. Instead, they could move to another state where they have better opportunities or a lower risk of being deported. An alternative view we study this issue also utilized bump charts ranking the US states on violent and property crime rates, but highlights sanctuary states instead. Sanctuary states are those where undcouemtned immigrants are granted some level of protection from deportation. The yellow portion encodes the period of time before the state enacted a sanctuary policy, whereas a red color shows that a sanctuary policy was enacted. The key takeaway from these plots is that the crime rate rankings of sanctuary states did not consistently increase or decrease after a sanctuary policy was implemented. This further suggests that undcoumented immigrants do not cause a rise in crime in the areas where they reside, disproving Trump's claims. Moreover, it suggests that the mass deportation policy championed by Trump would not necessarily lead to a reduction in crime as he alleges.
 
-![rankings2](bump2.png)
+![rankings2](bump2B.png)
 
 ## A Geographical Perspective on Crime and Dcoumented Immigration Rates
 
@@ -67,7 +67,7 @@ We can make the following observations from the visualization:
 
 In the first case study, we look at the rate of refugees per 1M residents in each state under both administrations, where the saturation of the color of a state encodes the average refugee rate over the period being studied. Again, the letter I on the map is used to highlight the top 10 states that undocumented immigrants flow to, and the arrows on the states under Biden's map indicate the direction of the change in refugee rate from Trump's map.
 
-![geo2](geo2.PNG)
+![geo2](geo2b.PNG)
 
 We can make the following observations from the visualization:
 
@@ -201,7 +201,7 @@ The report from [Education Data Initiative](https://educationdata.org/student-lo
 
 Biden/Harris Administration claims, "We have reduced the burden of student loans through forgiveness programs, repayment pauses, and limiting interest accumulation." On the other hand, Trump remakrs, "Our administration focused on minimizing federal overreach, promoting private-sector alternatives, and limiting unncessary loan expansions." Under Biden's presidency, his initiatives such as cancellation of up to $20,000 in student loans and repayment pause extensions contributed to decreasing the increasing trend of federal loans in the US by bringing the national loan amount by $0.03 trillion. This is indeed reflected in the line graph shown below, which confirms the claims made by the Biden/Harris administration. Conversely, while the plot shown cannot be utilized to conclusively confirm or disprove Trump's claim, it ultimately demonstrates that his administration's efforts did not attempt, or at least succeed at reducing national student loan debt.
 
-<iframe src="https://public.tableau.com/views/NationalStudentLoanDebtAmountbyYear/Sheet1?:showVizHome=no&:embed=true" width="1000" height="800"></iframe>
+![debt](debt.PNG)
 
 ## Student Loan by Category
 
@@ -213,7 +213,7 @@ Harris administration is most likely to target black and hispanic borrowers, tho
 
 <iframe src="https://public.tableau.com/views/midwaycheckpoint/Dashboard1?:showVizHome=no&:embed=true" width="800" height="800" ></iframe>
 
-<iframe src="https://public.tableau.com/views/midwaycheckpoint/Dashboard2?:showVizHome=no&:embed=true" width="1000" height="800"></iframe>
+<iframe src="https://public.tableau.com/views/midwaycheckpoint/Dashboard2?:showVizHome=no&:embed=true" width="800" height="800"></iframe>
 
 Key takeaways:
 
