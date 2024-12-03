@@ -112,17 +112,26 @@ The following lists some of the observations that could be made from this visual
 
 ### Full Exploratory Scatter Plot
 
-Now, we give you full control over the filtering and time travel in this powerful scatter plot. We hope it helps you gain more insight about the relationship between crime and immigration rates, how such rates vary in different regions of the country, the effect implementing a sanctuary policy, if any, can have on both rates, the history of each state, and much more.
+Now, we give you full control over the filtering and time travel in this powerful scatter plot. We hope it helps you gain more insight into the relationship between crime and immigration rates, how such rates vary in different regions of the country, the effect implementing a sanctuary policy, if any, can have on both rates, the history of each state, and much more.
 
 <iframe src="https://public.tableau.com/views/crime_immigration_viz_scatter/Sheet12?:showVizHome=no&:embed=true" width="800" height="800"></iframe>
 
 ## Undocumented Immigrants and Taxes
 
+Another claim made by President Donald Trump across multiple social media platforms and during live appearances is that undocumented immigrants are receiving Social Security and Medicare benefits and threatening the stability of both programs. Social Security benefits are payments made by the U.S. government to eligible individuals as financial support for retirement, disability, or survivorship. These payments are provided to individuals who have contributed to the Social Security system during their working years or meet specific eligibility criteria, which include having a Social Security number. Medicare is a federal health insurance program for people aged 65 or older and, in some cases, those who are younger with disabilities or fit specific medical criteria. Contrary to these claims, undocumented immigrants do not receive most federal benefits, including Social Security and Medicare. However, they still pay into these systems through payroll taxes, even though they are ineligible to collect the benefits they fund.
+
+In addition to payroll taxes, undocumented immigrants contribute significantly to state and local tax revenues through property, sales, excise, and other taxes. These contributions are essential components of state and local funding, especially in areas with high immigrant populations. The following visualization highlights the total tax contributions made by undocumented immigrants in 2022 across the United States. This data provides insight into the economic role undocumented immigrants play, even in states that do not provide sanctuary protections.
+
 <iframe src="https://public.tableau.com/views/TaxViz/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link:showVizHome=no&:embed=true" width="820" height="820"></iframe>
+
+Some of the observations that could be drawn from this visualization are the following:
+- Undocumented immigrants contribute significantly to state and local taxes, even though they are ineligible for most benefits.
+- States like California, New York, and Illinois show the highest tax contributions which may reflect their large immigration populations and sanctuary status.
+- States with larger populations have a high correlation with higher tax contributions from undocumented immigrants.
 
 # Economy
 
-Another hot topic in the most recent election was the economy. With the economical ramifications of COVID and the political unrest around the world having a significant effect on the average American, people have been extra cautious when casting their votes as they look for policies that will improve their day to day lives. As a result, the US economy, the world’s largest as measured by GDP, remains a focal point of intense political debate, with candidates frequently making claims about their economic policies' impacts. Both major parties assert that their leadership is better suited to improve the livelihoods of everyday Americans. While the president does not have direct control over the economy, they play a critical role in shaping the national economic agenda and tone. To evaluate these assertions, let’s consider some
+Another hot topic in the most recent election was the economy. With the economic ramifications of COVID-19 and the political unrest around the world having a significant effect on the average American, people have been extra cautious when casting their votes as they look for policies that will improve their day-to-day lives. As a result, the US economy, the world’s largest as measured by GDP, remains a focal point of intense political debate, with candidates frequently making claims about their economic policies' impacts. Both major parties assert that their leadership is better suited to improve the livelihoods of everyday Americans. While the president does not have direct control over the economy, they play a critical role in shaping the national economic agenda and tone. To evaluate these assertions, let’s consider some
 of the specific claims made by the candidates and analyze their validity.
 
 President Joe Biden has frequently articulated his economic philosophy as "growing the economy from the middle out and the bottom up, not the top down," arguing that his policies have directly benefited the average American. Former President Donald Trump has countered with claims such as, “We have set economic growth records, the likes of which we have never seen before,” often pointing to pre-pandemic economic indicators during his tenure.
@@ -145,7 +154,7 @@ To evaluate claims about improving the average American’s financial standing, 
 
 ![median_wealth](Median_family_wealth.png)
 
-Median household income rose approximately 24% during the Obama/Biden administration, reflecting steady recovery from the Great Recession. During Trump’s presidency, incomes increased by 12% in the first two years before the COVID-19 pandemic disrupted the economy. It’s worth noting that Trump inherited a strong economic foundation with historically low unemployment and high GDP growth, bolstered further by the 2017 tax cuts. These cuts likely contributed to short-term increases in income, aligning with Trump’s claim of record growth before the pandemic.
+Median household income rose approximately 24% during the Obama/Biden administration, reflecting a steady recovery from the Great Recession. During Trump’s presidency, incomes increased by 12% in the first two years before the COVID-19 pandemic disrupted the economy. It’s worth noting that Trump inherited a strong economic foundation with historically low unemployment and high GDP growth, bolstered further by the 2017 tax cuts. These cuts likely contributed to short-term increases in income, aligning with Trump’s claim of record growth before the pandemic.
 
 While both administrations oversaw income growth, these numbers alone don’t capture the broader economic landscape. Biden inherited an economy ravaged by the pandemic but presided over policies aimed at recovery, such as stimulus packages and investments in infrastructure. These actions reflect his stated philosophy of prioritizing middle- and lower-income Americans, thereby validating his claims.
 
