@@ -250,6 +250,22 @@ While this project might be coming a little too late (since the elections alread
 
 # References
 
+_FBI Crime Data Explorer_ [Crime data for all crimes and all states](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend)
+
+_State immigration data from Office of Homeland Security Statistics_ [Immigration data for all immigrant statuses and all states](https://ohss.dhs.gov/topics/immigration/state-immigration-data)
+
+_Undocumented immigrant estimates from Office of Homeland Security Statistics_ [Estimates of the Unauthorized Immigrant Population Residing in the United States](https://ohss.dhs.gov/topics/immigration/unauthorized-immigrants/estimates-unauthorized-immigrant-population-residing)
+
+_State population data from 2010 to 2019_ [State Population Totals and Components of Change: 2010-2019](https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.html)
+
+_State population data from 2020 to 2023_ [State Population Totals and Components of Change: 2020-2023](https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html)
+
+_Remarks by president Trump on undocumented immigrants_ [Trump says immigrants are ‘poisoning the blood of our country.’](https://www.nbcnews.com/politics/2024-election/trump-says-immigrants-are-poisoning-blood-country-biden-campaign-liken-rcna130141)
+
+_Various remarks and claims made by both president Trump and vice president Harris_ [Fact checking debate claims from Trump and Harris' 2024 presidential faceoff](https://www.cbsnews.com/news/trump-harris-abc-debate-fact-check/)
+
+_Remarks by vice president Harris on the flow of immigrants into US under Biden's administration_ [Fact Check: Kamala Claims Biden Admin Has Halved 'Flow of Immigration'](https://www.newsweek.com/fact-check-kamala-claims-biden-admin-has-halved-flow-immigration-1974467)
+
 _Harris vs. Trump on student loans, education: Where they stand - washington post._ [Harris vs. Trump on student loans, education: Where they stand](https://www.washingtonpost.com/politics/interactive/2024/trump-harris-student-loans-education/)
 
 _A NEW WAY FORWARD FOR THE MIDDLE CLASS_ [A Plan to Lower Costs and Create an Opportunity Economy. (n.d.).](https://kamalaharris.com/wp-content/uploads/2024/09/Policy_Book_Economic-Opportunity.pdf)
