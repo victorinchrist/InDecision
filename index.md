@@ -208,7 +208,7 @@ This section will visualize data on student loans by age, education level, insti
 
 The report from [Education Data Initiative](https://educationdata.org/student-loan-debt-statistics) shows that the student loan debt in the US sums **$1.753 trillion**. The line graph below highlights the significant increase on students and graduates. The steep growth in national student loan debt in the US underscores the urgency for policies to address student loan debt sustainability for future generations.
 
-Biden/Harris Administration claims, "We have reduced the burden of student loans through forgiveness programs, repayment pauses, and limiting interest accumulation." On the other hand, Trump remakrs, "Our administration focused on minimizing federal overreach, promoting private-sector alternatives, and limiting unncessary loan expansions." Under Biden's presidency, his initiatives such as cancellation of up to $20,000 in student loans and repayment pause extensions contributed to decreasing the increasing trend of federal loans in the US by bringing the national loan amount by $0.03 trillion. This is indeed reflected in the line graph shown below, which confirms the claims made by the Biden/Harris administration. Conversely, while the plot shown cannot be utilized to conclusively confirm or disprove Trump's claim, it ultimately demonstrates that his administration's efforts did not attempt, or at least succeed at reducing national student loan debt.
+Biden/Harris Administration claims, "We have reduced the burden of student loans through forgiveness programs, repayment pauses, and limiting interest accumulation." On the other hand, Trump remarks, "Our administration focused on minimizing federal overreach, promoting private-sector alternatives, and limiting unnecessary loan expansions." Under Biden's presidency, his initiatives such as cancellation of up to $20,000 in student loans and repayment pause extensions contributed to decreasing the increasing trend of federal loans in the US by bringing the national loan amount by $0.03 trillion. This is indeed reflected in the line graph shown below, which confirms the claims made by the Biden/Harris administration. Conversely, while the plot shown cannot be utilized to conclusively confirm or disprove Trump's claim, it ultimately demonstrates that his administration's efforts did not attempt, or at least succeed at reducing national student loan debt.
 
 ![debt](debt.PNG)
 
@@ -218,7 +218,7 @@ The bar graph below unpacks the complexities of student loan debt through three 
 
 Diving deeper into each claim made by each candidate, it's clear that Harris promotes the Biden administration's forgiveness programs and expanding income-driven repayment (IDR) plans like SAVE, capping payments to reduce monthly burdens. On the other hand, Trump administration will work on streamlining loan programs by consolidating federal repayment plans into fewer, simpler options. Furthermore, Trump expressed an intent to reduce the government's role in student lending, encouraging private-sector competition, bettering student loan rates, etc.
 
-Harris administration is most likely to target black and hispanic borrowers, those unmarried with dependents, for-profit borrowers and those in healthcare fields. In contrary, Trump will likely aim for 30/older individuals, those who are in/went to private nonprofits, engineering & copmuter science students and male borrowers. In the following two, we study how each group of people in each category are affected by student loan debt.
+Harris administration is most likely to target black and Hispanic borrowers, those unmarried with dependents, for-profit borrowers and those in healthcare fields. In contrary, Trump will likely aim for 30/older individuals, those who are in/went to private nonprofits, engineering & computer science students and male borrowers. In the following two, we study how each group of people in each category are affected by student loan debt.
 
 <iframe src="https://public.tableau.com/views/midwaycheckpoint/Dashboard1?:showVizHome=no&:embed=true" width="800" height="800" ></iframe>
 
@@ -226,7 +226,7 @@ Harris administration is most likely to target black and hispanic borrowers, tho
 
 Key takeaways:
 
-- Harris adminstration focuses on forgiving significant amounts for borrowers, especially those marginalized or pursuing advanced degrees. Furthermore, forgiveness programs will target high-debt sectors or racial inequities. To keep in mind is that forgiveness efforts largely focus on smaller groups with graduate loans.
+- Harris administration focuses on forgiving significant amounts for borrowers, especially those marginalized or pursuing advanced degrees. Furthermore, forgiveness programs will target high-debt sectors or racial inequities. To keep in mind is that forgiveness efforts largely focus on smaller groups with graduate loans.
 - The main emphasis of Trump administration would be to reduce borrowing for graduate students. The streamlining repayment or partnering with private lenders will help older borrowers and private nonprofit students. A warning may be that graduate students at for-profits or in healthcare bear high debt burdens but are less likely to benefit from a repayment strategy that doesn't include targeted relief.
 
 ## How would student loan forgiveness impact the average borrower?
@@ -237,7 +237,7 @@ Let us start by examining the average amount owed per borrower. This value was c
 
 We read through both campaign websites to get a better understanding of the exact claims made by candidates regarding student loan forgiveness. The Harris/Walz campaign is for student loan forgiveness, but the Trump/Vance ticket does not make specific claims either for or against. However on the campaign trail, former president Trump has argued against student loan forgiveness.
 
-In this hypothetical example, we consider what would happen if student loan forgiveness became policy. The average monthly payment for a federal student loan with a 10-year term at a 6.8% apr of 38000 is 430$. Again, this 38000$ figure comes from dividing the total outstanding amount by the number of unqiue borrowers. If the debt was cancelled and the borrower put this into a stock market index fund tracking the popular S&P500 ETF
+In this hypothetical example, we consider what would happen if student loan forgiveness became policy. The average monthly payment for a federal student loan with a 10-year term at a 6.8% APR of 38000 is 430$. Again, this 38000$ figure comes from dividing the total outstanding amount by the number of unique borrowers. If the debt was cancelled and the borrower put this into a stock market index fund tracking the popular S&P500 ETF
 (like SPY), they would end up with 75,000$
 
 Considering the average home price is 400,000$, with a little more saving, that could be a downpayment on a house!
