@@ -266,6 +266,12 @@ _Various remarks and claims made by both president Trump and vice president Harr
 
 _Remarks by vice president Harris on the flow of immigrants into US under Biden's administration_ [Fact Check: Kamala Claims Biden Admin Has Halved 'Flow of Immigration'](https://www.newsweek.com/fact-check-kamala-claims-biden-admin-has-halved-flow-immigration-1974467)
 
+_Remarks and claims by President Trump on undocumented immigrants and federal benefits_ [Misinformation About Immigrants in the 2024 Presidential Election](https://www.kff.org/health-misinformation-and-trust/poll-finding/misinformation-about-immigrants-in-the-2024-presidential-election/)
+
+_Information on Tax Payments by Undocumented Immigrants - 2022_ [Tax Payments by Undocumented Immigrants](https://itep.org/undocumented-immigrants-taxes-2024/)
+
+_2022 US tax data for undocumented immigrants [2022 State Tax Revenue](https://taxadmin.org/2022-state-tax-revenue/)
+
 _Harris vs. Trump on student loans, education: Where they stand - washington post._ [Harris vs. Trump on student loans, education: Where they stand](https://www.washingtonpost.com/politics/interactive/2024/trump-harris-student-loans-education/)
 
 _A NEW WAY FORWARD FOR THE MIDDLE CLASS_ [A Plan to Lower Costs and Create an Opportunity Economy. (n.d.).](https://kamalaharris.com/wp-content/uploads/2024/09/Policy_Book_Economic-Opportunity.pdf)
